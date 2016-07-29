@@ -6,7 +6,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
   1. [Software](#software)
   2. [Equipment](#equipment)
-  3. [Journals](#journals)
+  3. [Publishing and Doing Research](#publishing-and-doing-research)
   4. [Citizen Science Spaces](#citizen-science-spaces)
   5. [Other Resources](#other-resources)
   6. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
@@ -26,7 +26,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Yeggi](http://www.yeggi.com/) - a search engine for 3D-printable models
  * [C.H.I.P](https://getchip.com/pages/chip) - A $9 Linux computer
 
-## journals:
+## publishing and doing research:
 
  * [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/) - An open-access, peer-reviewed journal dedicated to discussion about methods in citizen science.
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
