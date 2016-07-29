@@ -18,11 +18,13 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ## equipment:
 
- * [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
+ * [Ci](http://theoryandpractice.citizenscienceassociation.org/) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
 
 ## journals:
 
- * [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
+ * [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/) - An open-access, peer-reviewed journal dedicated to discussion about methods in citizen science.
+ * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
+ * [LibGen])(http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls
  
 
 ## How do I contribute to this list?
