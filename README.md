@@ -8,19 +8,23 @@ Below is a curated list of awesome software and other resources to enable those 
   2. [Equipment](#equipment)
   3. [Journals](#journals)
   4. [Citizen Science Spaces](#citizen-science-spaces)
-  4. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
-  5. [License](#license)
+  5. [Other Resources](#other-resources)
+  6. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
+  7. [License](#license)
 
 # The List
 
 ## software:
 
- * [Contact Congress (Open Source)](https://github.com/EFForg/contact-congress) - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below.
+ * [Zotero](https://www.zotero.org/) - open-source citation management software
+ * [mMass](http://www.mmass.org/) - open-source mass spectrometry software
+ * [TiddlyWiki](http://tiddlywiki.com/) - easily create your own wikis to organize information
 
 ## equipment:
 
  * [The ODIN](http://www.the-odin.com/) - a distributor of affordable DIY biology equipment
  * [Yeggi](http://www.yeggi.com/) - a search engine for 3D-printable models
+ * [C.H.I.P](https://getchip.com/pages/chip) - A $9 Linux computer
 
 ## journals:
 
@@ -31,6 +35,9 @@ Below is a curated list of awesome software and other resources to enable those 
 ## citizen science spaces:
  * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
 
+## other resources:
+ * [Public Lab](https://publiclab.org/) - A DIY environmental science network
+ 
 ## How do I contribute to this list?
 
 Have an idea of a tool that should be on this list? Here's how you can add it:
