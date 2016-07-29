@@ -7,6 +7,7 @@ Below is a curated list of awesome software and other resources to enable those 
   1. [Software](#software)
   2. [Equipment](#equipment)
   3. [Journals](#journals)
+  4. [Citizen Science Spaces](#citizen-science-spaces)
   4. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
   5. [License](#license)
 
@@ -18,7 +19,8 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ## equipment:
 
- * [Ci](http://theoryandpractice.citizenscienceassociation.org/) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
+ * [The ODIN](http://www.the-odin.com/) - a distributor of affordable DIY biology equipment
+ * [Yeggi](http://www.yeggi.com/) - a search engine for 3D-printable models
 
 ## journals:
 
@@ -26,6 +28,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
  * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls
  
+## citizen science spaces:
 
 ## How do I contribute to this list?
 
