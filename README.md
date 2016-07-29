@@ -34,6 +34,7 @@ Below is a curated list of awesome software and other resources to enable those 
  
 ## citizen science spaces:
  * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
+ * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - community science lab based in Pittsburgh, PA
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
