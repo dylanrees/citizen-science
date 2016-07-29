@@ -29,6 +29,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls
  
 ## citizen science spaces:
+ * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
 
 ## How do I contribute to this list?
 
