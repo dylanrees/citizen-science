@@ -7,7 +7,7 @@ Below is a curated list of awesome software and other resources to enable those 
   1. [Software](#software)
   2. [Equipment](#equipment)
   3. [Journals](#journals)
-  4. [How to contribute to this list](#how-do-i-contribute-to-to-this-list)
+  4. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
   5. [License](#license)
 
 # The List
