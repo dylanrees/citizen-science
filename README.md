@@ -24,7 +24,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
  * [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/) - An open-access, peer-reviewed journal dedicated to discussion about methods in citizen science.
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
- * [LibGen])(http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls
+ * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls
  
 
 ## How do I contribute to this list?
