@@ -26,6 +26,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The ODIN](http://www.the-odin.com/) - a distributor of affordable DIY biology equipment
  * [Yeggi](http://www.yeggi.com/) - a search engine for 3D-printable models
  * [C.H.I.P](https://getchip.com/pages/chip) - A $9 Linux computer
+ * [OpenTrons](http://opentrons.com/) - an open-source liquid handling robot
+ * [OpenPCR](http://openpcr.org/) - an open-source PCR thermocycler
 
 ## publishing and doing research:
 
