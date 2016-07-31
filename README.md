@@ -28,6 +28,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [C.H.I.P](https://getchip.com/pages/chip) - A $9 Linux computer
  * [OpenTrons](http://opentrons.com/) - an open-source liquid handling robot
  * [OpenPCR](http://openpcr.org/) - an open-source PCR thermocycler
+ * [Bento Box](https://www.bento.bio/) - a low-cost PCR workstation from Bento Lab
+ * [23andMe](https://www.23andme.com/) - a kit for personal genome sequence
 
 ## publishing and doing research:
 
