@@ -35,6 +35,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/) - An open-access, peer-reviewed journal dedicated to discussion about methods in citizen science.
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
  * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls
+ * [SciHub](http://sci-hub.bz/) - another site for gaining access to science papers that are normally behind paywalls
  
 ## literature and philosophy:
  * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download) - A paper describing ways that citizen science can challenge existing scientific and political power structures
