@@ -48,6 +48,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
+ * [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems. 
  
 ## How do I contribute to this list?
 
