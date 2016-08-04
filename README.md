@@ -36,6 +36,10 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
  * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls
  * [SciHub](http://sci-hub.bz/) - another site for gaining access to science papers that are normally behind paywalls
+
+## Databases:
+ * [SGD](www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database
+ * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment
  
 ## literature and philosophy:
  * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download) - A paper describing ways that citizen science can challenge existing scientific and political power structures
@@ -45,6 +49,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
  * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - community science lab based in Pittsburgh, PA
  * [The Community Science Initiative](http://www.communityscience.org/) - nonprofit water testing and environmental data organization in Ithaca, NY
+ * [BioCurious](http://biocurious.org/) - The first biohacking space in the world, located in Sunnyvale, CA
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
