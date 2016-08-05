@@ -32,6 +32,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Bento Box](https://www.bento.bio/) - a low-cost PCR workstation from Bento Lab
  * [SGD](www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment
+ * [Global Village Construction Set](http://opensourceecology.org/gvcs/gvcs-machine-index/) - open source civilization-building tools
 
 ## publishing and doing research:
 
