@@ -33,6 +33,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [SGD](www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment
  * [Global Village Construction Set](http://opensourceecology.org/gvcs/gvcs-machine-index/) - open source civilization-building tools
+ * [DIY Filament Extruder](http://3dprintingforbeginners.com/how-to-make-diy-filament-for-your-3d-printer/) - make your own 3D printer filament
 
 ## publishing and doing research:
 
