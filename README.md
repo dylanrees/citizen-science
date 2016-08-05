@@ -20,6 +20,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Zotero](https://www.zotero.org/) - open-source citation management software
  * [mMass](http://www.mmass.org/) - open-source mass spectrometry software
  * [TiddlyWiki](http://tiddlywiki.com/) - easily create your own wikis to organize information
+ * [Grafana](http://grafana.org/) - Create a dashboard (online if you wish) that visualizes you experimental data
 
 ## tools and equipment:
 
@@ -48,6 +49,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - community science lab based in Pittsburgh, PA
  * [The Community Science Initiative](http://www.communityscience.org/) - nonprofit water testing and environmental data organization in Ithaca, NY
  * [BioCurious](http://biocurious.org/) - The first biohacking space in the world, located in Sunnyvale, CA
+ * [HiveBio](http://hivebio.org/) - Seattle community bio lab
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
