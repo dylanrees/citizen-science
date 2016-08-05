@@ -5,7 +5,7 @@ Below is a curated list of awesome software and other resources to enable those 
 ## Table of Contents
 
   1. [Software](#software)
-  2. [Equipment](#equipment)
+  2. [Equipment](#tools-and-equipment)
   3. [Publishing and Doing Research](#publishing-and-doing-research)
   4. [Citizen Science Spaces](#citizen-science-spaces)
   5. [Literature and Philosophy](#literature-and-philosophy)
@@ -21,7 +21,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [mMass](http://www.mmass.org/) - open-source mass spectrometry software
  * [TiddlyWiki](http://tiddlywiki.com/) - easily create your own wikis to organize information
 
-## equipment:
+## tools and equipment:
 
  * [The ODIN](http://www.the-odin.com/) - a distributor of affordable DIY biology equipment
  * [Yeggi](http://www.yeggi.com/) - a search engine for 3D-printable models
@@ -29,6 +29,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [OpenTrons](http://opentrons.com/) - an open-source liquid handling robot
  * [OpenPCR](http://openpcr.org/) - an open-source PCR thermocycler
  * [Bento Box](https://www.bento.bio/) - a low-cost PCR workstation from Bento Lab
+ * [SGD](www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database
+ * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment
 
 ## publishing and doing research:
 
@@ -45,6 +47,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
  * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - community science lab based in Pittsburgh, PA
  * [The Community Science Initiative](http://www.communityscience.org/) - nonprofit water testing and environmental data organization in Ithaca, NY
+ * [BioCurious](http://biocurious.org/) - The first biohacking space in the world, located in Sunnyvale, CA
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
