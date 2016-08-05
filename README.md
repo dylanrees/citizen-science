@@ -38,6 +38,10 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
  * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls
  * [SciHub](http://sci-hub.bz/) - another site for gaining access to science papers that are normally behind paywalls
+
+## Databases:
+ * [SGD](www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database
+ * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment
  
 ## literature and philosophy:
  * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download) - A paper describing ways that citizen science can challenge existing scientific and political power structures
