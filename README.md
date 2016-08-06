@@ -52,6 +52,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Community Science Initiative](http://www.communityscience.org/) - nonprofit water testing and environmental data organization in Ithaca, NY
  * [BioCurious](http://biocurious.org/) - The first biohacking space in the world, located in Sunnyvale, CA
  * [HiveBio](http://hivebio.org/) - Seattle community bio lab
+ * [Sanctuary for Weedy Species](http://ellieirons.com/projects/sanctuary/) - Brooklyn-based urban ecology project
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
