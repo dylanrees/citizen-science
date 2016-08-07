@@ -54,6 +54,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [HiveBio](http://hivebio.org/) - Seattle community bio lab
  * [Sanctuary for Weedy Species](http://ellieirons.com/projects/sanctuary/) - Brooklyn-based urban ecology project
  * [Coweeta Listening Project](https://listening.coweeta.uga.edu/#) - Southern Appalachian project combining ecological research with civic action
+ * [BioBus](http://www.biobus.org/) - mobile science education lab
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
