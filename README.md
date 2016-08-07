@@ -25,6 +25,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA
  * [SageMath](https://cloud.sagemath.com/) - Open-source cloud-based computation (similar to MATLAB and Mathematica)
  * [GNU Octave](https://www.gnu.org/software/octave/) - Free software numerical computation program, similar to MATLAB
+ * [GNOME Planner](https://wiki.gnome.org/action/show/Apps/Planner?action=show&redirect=Planner) - Productivity tool for scheduling tasks and making Gantt charts
 
 ## tools and equipment:
 
