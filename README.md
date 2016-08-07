@@ -7,7 +7,7 @@ Below is a curated list of awesome software and other resources to enable those 
   1. [Software](#software)
   2. [Equipment](#tools-and-equipment)
   3. [Publishing and Doing Research](#publishing-and-doing-research)
-  4. [Citizen Science Spaces](#citizen-science-spaces)
+  4. [Citizen Science Spaces](#citizen-science-spaces-and-projects)
   5. [Literature and Philosophy](#literature-and-philosophy)
   5. [Other Resources](#other-resources)
   6. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
@@ -46,13 +46,14 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download) - A paper describing ways that citizen science can challenge existing scientific and political power structures
  * [Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](https://www.researchgate.net/publication/263120833_Institutions_for_Civic_Technoscience_How_Critical_Making_is_Transforming_Environmental_Research) - paper that introduces the term "civic technoscience" to describe knowledge creation by individuals outside of the academy and discusses the implications
  
-## citizen science spaces:
+## citizen science spaces and projects:
  * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
  * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - community science lab based in Pittsburgh, PA
  * [The Community Science Initiative](http://www.communityscience.org/) - nonprofit water testing and environmental data organization in Ithaca, NY
  * [BioCurious](http://biocurious.org/) - The first biohacking space in the world, located in Sunnyvale, CA
  * [HiveBio](http://hivebio.org/) - Seattle community bio lab
  * [Sanctuary for Weedy Species](http://ellieirons.com/projects/sanctuary/) - Brooklyn-based urban ecology project
+ * [Coweeta Listening Project](https://listening.coweeta.uga.edu/#) - Southern Appalachian project combining ecological research with civic action
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
