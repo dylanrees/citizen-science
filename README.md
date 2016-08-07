@@ -35,6 +35,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Global Village Construction Set](http://opensourceecology.org/gvcs/gvcs-machine-index/) - open source civilization-building tools
  * [Precious Plastic](https://preciousplastic.com/en/videos/build/extrusion/) - make your own 3D printer filament
  * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks
+ * [OpenStax](https://openstax.org/) - repository of free/cheap open-source textbooks on many subjects
 
 ## publishing and doing research:
 
