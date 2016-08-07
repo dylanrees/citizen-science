@@ -23,6 +23,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Grafana](http://grafana.org/) - Create a dashboard (online if you wish) that visualizes you experimental data
  * [Evergreen ILS](http://evergreen-ils.org/) - software for managing a library of books (and the loaning process)
  * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA
+ * [SageMath](https://cloud.sagemath.com/) - Open-source cloud-based computation (similar to MATLAB and Mathematica)
+ * [GNU Octave](https://www.gnu.org/software/octave/) - Free software numerical computation program, similar to MATLAB
 
 ## tools and equipment:
 
