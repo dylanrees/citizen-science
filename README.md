@@ -34,6 +34,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment
  * [Global Village Construction Set](http://opensourceecology.org/gvcs/gvcs-machine-index/) - open source civilization-building tools
  * [Precious Plastic](https://preciousplastic.com/en/videos/build/extrusion/) - make your own 3D printer filament
+ * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks
 
 ## publishing and doing research:
 
