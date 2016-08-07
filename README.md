@@ -63,6 +63,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Coweeta Listening Project](https://listening.coweeta.uga.edu/#) - Southern Appalachian project combining ecological research with civic action
  * [BioBus](http://www.biobus.org/) - mobile science education lab
  * [SynthTechBio Network](http://www.syntechbio.com/) - Latin American biohackers' network
+ * [The Radix Center](https://radixcenter.org/) - community-based urban sustainability / agriculture education center in Albany, NY
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
