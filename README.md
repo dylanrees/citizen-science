@@ -22,6 +22,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [TiddlyWiki](http://tiddlywiki.com/) - easily create your own wikis to organize information
  * [Grafana](http://grafana.org/) - Create a dashboard (online if you wish) that visualizes you experimental data
  * [Evergreen ILS](http://evergreen-ils.org/) - software for managing a library of books (and the loaning process)
+ * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA
 
 ## tools and equipment:
 
