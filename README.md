@@ -21,6 +21,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [mMass](http://www.mmass.org/) - open-source mass spectrometry software
  * [TiddlyWiki](http://tiddlywiki.com/) - easily create your own wikis to organize information
  * [Grafana](http://grafana.org/) - Create a dashboard (online if you wish) that visualizes you experimental data
+ * [Evergreen ILS](http://evergreen-ils.org/) - software for managing a library of books (and the loaning process)
 
 ## tools and equipment:
 
