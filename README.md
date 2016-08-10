@@ -75,6 +75,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems. 
  * [United Diversity Co-op Library](http://library.uniteddiversity.coop/) - vast library of interesting textbooks and other resources in PDF form
  * [Microbe Wiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki) - a large student-edited multi-institutional wiki for microbiology
+ * [iGEM](http://igem.org/Main_Page) - Student synthetic biology competition with connections to many DIY bio labs
  
 ## How do I contribute to this list?
 
