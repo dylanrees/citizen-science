@@ -46,6 +46,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks
  * [OpenStax](https://openstax.org/) - repository of free/cheap open-source textbooks on many subjects
  * [Generic Lab Equipment](http://hackteria.org/wiki/Generic_Lab_Equipment) - Wiki with instructions on building DIY lab equipment
+ * [Build My Lab Contest](http://www.instructables.com/contest/buildmylab/) - a competition to create instructables for DIY lab equipment
 
 ## publishing and doing research:
 
