@@ -78,7 +78,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Microbe Wiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki) - a large student-edited multi-institutional wiki for microbiology
  * [iGEM](http://igem.org/Main_Page) - Student synthetic biology competition with connections to many DIY bio labs
  * [MOST](http://www.appropedia.org/Category:MOST) - The Pearce Research Group at Michigan Tech in Open Sustainability Technology
- * 
+ 
 ## How do I contribute to this list?
 
 Have an idea of a tool that should be on this list? Here's how you can add it:
