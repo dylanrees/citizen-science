@@ -51,6 +51,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [OpenStax](https://openstax.org/) - repository of free/cheap open-source textbooks on many subjects
  * [Generic Lab Equipment](http://hackteria.org/wiki/Generic_Lab_Equipment) - Wiki with instructions on building DIY lab equipment
  * [Build My Lab Contest](http://www.instructables.com/contest/buildmylab/) - a competition to create instructables for DIY lab equipment
+ * [Farming Concrete Data Collection Toolkit](https://farmingconcrete.org/toolkit/) - "Methods for measuring the outcomes and impacts of community gardens and urban farms"
 
 ## publishing and doing research:
 
