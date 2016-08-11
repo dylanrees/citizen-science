@@ -37,6 +37,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Particle Electron](https://www.particle.io/products/hardware/electron-cellular-dev-kit?) - Raspberry Pi-like microcontroller for connecting the devices you make to the cellular network
  * [OpenTrons](http://opentrons.com/) - an open-source liquid handling robot
  * [OpenPCR](http://openpcr.org/) - an open-source PCR thermocycler
+ * [Ember](https://ember.autodesk.com/) - a comprehensively open-source DLP SLA 3D Printer project, powered by Autodesk
  * [SparkFun](https://www.sparkfun.com/) - company selling all sorts of electronics, including sensors
  * [Bento Box](https://www.bento.bio/) - a low-cost PCR workstation from Bento Lab
  * [SGD](www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database
@@ -77,6 +78,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [United Diversity Co-op Library](http://library.uniteddiversity.coop/) - vast library of interesting textbooks and other resources in PDF form
  * [Microbe Wiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki) - a large student-edited multi-institutional wiki for microbiology
  * [iGEM](http://igem.org/Main_Page) - Student synthetic biology competition with connections to many DIY bio labs
+ * [Biodesign Challenge](http://biodesignchallenge.org/) - a student design competition that concentrates on envisioning the future application of biotechnology
+ * [Biofabricate](http://www.biofabricate.co/) - A design-focused annual conference that focuses on biotechnology-affiliated design, materials, and techniques.
  * [MOST](http://www.appropedia.org/Category:MOST) - The Pearce Research Group at Michigan Tech in Open Sustainability Technology
  
 ## How do I contribute to this list?
