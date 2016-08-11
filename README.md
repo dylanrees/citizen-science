@@ -10,8 +10,9 @@ Below is a curated list of awesome software and other resources to enable those 
   4. [Citizen Science Spaces](#citizen-science-spaces-and-projects)
   5. [Literature and Philosophy](#literature-and-philosophy)
   5. [Other Resources](#other-resources)
-  6. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
-  7. [License](#license)
+  6. [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
+  7. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
+  8. [License](#license)
 
 # The List
 
@@ -89,6 +90,10 @@ Below is a curated list of awesome software and other resources to enable those 
  * [MOST](http://www.appropedia.org/Category:MOST) - The Pearce Research Group at Michigan Tech in Open Sustainability Technology
  * [OSGeo](http://www.osgeo.org/) - The Open Source Geospatial Foundation, which offers a lot of open tools for working with GIS data
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia
+ * 
+## questions and knowledge gaps:
+
+* Ethics in research are often overseen by federal agencies or institutional review boards (IRBs). Is there a bottom-up, citizen-driven alternative to this?
  
 ## How do I contribute to this list?
 
