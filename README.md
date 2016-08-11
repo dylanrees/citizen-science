@@ -90,7 +90,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [MOST](http://www.appropedia.org/Category:MOST) - The Pearce Research Group at Michigan Tech in Open Sustainability Technology
  * [OSGeo](http://www.osgeo.org/) - The Open Source Geospatial Foundation, which offers a lot of open tools for working with GIS data
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia
- * 
+ 
 ## questions and knowledge gaps:
 
 * Ethics in research are often overseen by federal agencies or institutional review boards (IRBs). Is there a bottom-up, citizen-driven alternative to this?
