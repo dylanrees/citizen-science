@@ -27,7 +27,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [SageMath](https://cloud.sagemath.com/) - Open-source cloud-based computation (similar to MATLAB and Mathematica)
  * [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) - free and open source productivity software (write documents, spreadsheets, presentations, and more)
  * [GNU Octave](https://www.gnu.org/software/octave/) - Free software numerical computation program, similar to MATLAB
- * [GNOME Planner](https://wiki.gnome.org/action/show/Apps/Planner?action=show&redirect=Planner) - Productivity tool for scheduling tasks and making Gantt charts
+ * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts
  * [Open Science Framework](https://osf.io/) - open-source collaborative project manager for scientific research
  * [Dia](http://dia-installer.de/) - open-source software for making diagrams
 
