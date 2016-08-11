@@ -22,6 +22,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [TiddlyWiki](http://tiddlywiki.com/) - easily create your own wikis to organize information
  * [Grafana](http://grafana.org/) - Create a dashboard (online if you wish) that visualizes you experimental data
  * [Evergreen ILS](http://evergreen-ils.org/) - software for managing a library of books (and the loaning process)
+ * [OpenSCAD](http://www.openscad.org/) - 3D modeling software
  * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA
  * [SageMath](https://cloud.sagemath.com/) - Open-source cloud-based computation (similar to MATLAB and Mathematica)
  * [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) - free and open source productivity software (write documents, spreadsheets, presentations, and more)
@@ -84,6 +85,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Biofabricate](http://www.biofabricate.co/) - A design-focused annual conference that focuses on biotechnology-affiliated design, materials, and techniques.
  * [MOST](http://www.appropedia.org/Category:MOST) - The Pearce Research Group at Michigan Tech in Open Sustainability Technology
  * [OSGeo](http://www.osgeo.org/) - The Open Source Geospatial Foundation, which offers a lot of open tools for working with GIS data
+ * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia
  
 ## How do I contribute to this list?
 
