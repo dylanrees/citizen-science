@@ -82,6 +82,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Biodesign Challenge](http://biodesignchallenge.org/) - a student design competition that concentrates on envisioning the future application of biotechnology
  * [Biofabricate](http://www.biofabricate.co/) - A design-focused annual conference that focuses on biotechnology-affiliated design, materials, and techniques.
  * [MOST](http://www.appropedia.org/Category:MOST) - The Pearce Research Group at Michigan Tech in Open Sustainability Technology
+ * [OSGeo](http://www.osgeo.org/) - The Open Source Geospatial Foundation, which offers a lot of open tools for working with GIS data
  
 ## How do I contribute to this list?
 
