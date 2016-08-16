@@ -65,7 +65,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download) - A paper describing ways that citizen science can challenge existing scientific and political power structures
  * [Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](https://www.researchgate.net/publication/263120833_Institutions_for_Civic_Technoscience_How_Critical_Making_is_Transforming_Environmental_Research) - paper that introduces the term "civic technoscience" to describe knowledge creation by individuals outside of the academy and discusses the implications
  * [Return on Investment for Open Source Hardware Development](https://www.academia.edu/13799962/Return_on_Investment_for_Open_Source_Hardware_Development?auto=download) - a paper by Joshua Pearce, director of MOST (see "other resources" section)
- * [Citizen Science as an Ecological Research Tool: Challenges and Benefit](http://www.jstor.org/stable/pdf/27896218.pdf) - paper outlining the growing role of citizen science in advancing ecological research
+ * [Citizen Science as an Ecological Research Tool: Challenges and Benefits](http://www.jstor.org/stable/pdf/27896218.pdf) - paper outlining the growing role of citizen science in advancing ecological research
  
 ## citizen science spaces and projects:
  * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
