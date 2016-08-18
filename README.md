@@ -5,6 +5,7 @@ Below is a curated list of awesome software and other resources to enable those 
 ## Table of Contents
 
   1. [Software](#software)
+  2. [Educational](#educational)
   2. [Equipment](#tools-and-equipment)
   3. [Publishing and Doing Research](#publishing-and-doing-research)
   4. [Citizen Science Spaces](#citizen-science-spaces-and-projects)
@@ -31,6 +32,12 @@ Below is a curated list of awesome software and other resources to enable those 
  * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts
  * [Open Science Framework](https://osf.io/) - open-source collaborative project manager for scientific research
  * [Dia](http://dia-installer.de/) - open-source software for making diagrams
+ 
+## educational:
+ * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks
+ * [OpenStax](https://openstax.org/) - repository of free/cheap open-source textbooks on many subjects
+ * [PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry) - CU Boulder interactive physics and chemistry simulations
+
 
 ## tools and equipment:
 
@@ -48,8 +55,6 @@ Below is a curated list of awesome software and other resources to enable those 
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment
  * [Global Village Construction Set](http://opensourceecology.org/gvcs/gvcs-machine-index/) - open source civilization-building tools
  * [Precious Plastic](https://preciousplastic.com/en/videos/build/extrusion/) - make your own 3D printer filament
- * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks
- * [OpenStax](https://openstax.org/) - repository of free/cheap open-source textbooks on many subjects
  * [Generic Lab Equipment](http://hackteria.org/wiki/Generic_Lab_Equipment) - Wiki with instructions on building DIY lab equipment
  * [Build My Lab Contest](http://www.instructables.com/contest/buildmylab/) - a competition to create instructables for DIY lab equipment
  * [Farming Concrete Data Collection Toolkit](https://farmingconcrete.org/toolkit/) - "Methods for measuring the outcomes and impacts of community gardens and urban farms"
