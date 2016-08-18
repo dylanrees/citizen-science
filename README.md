@@ -79,6 +79,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [SynthTechBio Network](http://www.syntechbio.com/) - Latin American biohackers' network
  * [The Radix Center](https://radixcenter.org/) - community-based urban sustainability / agriculture education center in Albany, NY
  * [The Bucket Brigade](http://www.labucketbrigade.org/) - Norco, LA - based citizen science group fighting for environmental justice
+ * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
