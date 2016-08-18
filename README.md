@@ -33,6 +33,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Open Science Framework](https://osf.io/) - open-source collaborative project manager for scientific research
  * [Dia](http://dia-installer.de/) - open-source software for making diagrams
  * [Gephi](https://gephi.org/) - open graph visualization platform
+ * [QGIS](http://www.qgis.org/en/site/) - open GIS software
  
 ## educational:
  * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks
