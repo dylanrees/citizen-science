@@ -32,6 +32,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts
  * [Open Science Framework](https://osf.io/) - open-source collaborative project manager for scientific research
  * [Dia](http://dia-installer.de/) - open-source software for making diagrams
+ * [Gephi](https://gephi.org/) - open graph visualization platform
  
 ## educational:
  * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks
@@ -101,6 +102,7 @@ Below is a curated list of awesome software and other resources to enable those 
 ## questions and knowledge gaps:
 
 * Ethics in research are often overseen by federal agencies or institutional review boards (IRBs). Is there a bottom-up, citizen-driven alternative to this?
+* How can we organize this information better?
  
 ## How do I contribute to this list?
 
