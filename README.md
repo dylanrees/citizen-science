@@ -34,6 +34,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Dia](http://dia-installer.de/) - open-source software for making diagrams
  * [Gephi](https://gephi.org/) - open graph visualization platform
  * [QGIS](http://www.qgis.org/en/site/) - open GIS software
+ * [Calibre](http://calibre-ebook.com/) - ebook management software
  
 ## educational:
  * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks
