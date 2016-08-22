@@ -63,6 +63,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Generic Lab Equipment](http://hackteria.org/wiki/Generic_Lab_Equipment) - Wiki with instructions on building DIY lab equipment
  * [Build My Lab Contest](http://www.instructables.com/contest/buildmylab/) - a competition to create instructables for DIY lab equipment
  * [Farming Concrete Data Collection Toolkit](https://farmingconcrete.org/toolkit/) - "Methods for measuring the outcomes and impacts of community gardens and urban farms"
+ * [Smoky Mountain Scientific](http://www.smokymtsci.com/) - Modular, Low cost, open-source instrumentation for environmental monitoring.
 
 ## publishing and doing research:
 
