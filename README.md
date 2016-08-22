@@ -64,6 +64,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Build My Lab Contest](http://www.instructables.com/contest/buildmylab/) - a competition to create instructables for DIY lab equipment
  * [Farming Concrete Data Collection Toolkit](https://farmingconcrete.org/toolkit/) - "Methods for measuring the outcomes and impacts of community gardens and urban farms"
  * [Smoky Mountain Scientific](http://www.smokymtsci.com/) - Modular, Low cost, open-source instrumentation for environmental monitoring.
+ * [Raspberry Shake](https://www.kickstarter.com/projects/angelrodriguez/raspberry-shake-your-personal-seismograph) - an seismograph compatible with the Raspberry Pi
 
 ## publishing and doing research:
 
