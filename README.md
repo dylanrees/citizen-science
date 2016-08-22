@@ -40,6 +40,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks
  * [OpenStax](https://openstax.org/) - repository of free/cheap open-source textbooks on many subjects
  * [PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry) - CU Boulder interactive physics and chemistry simulations
+ * [United Diversity Co-op Library](http://library.uniteddiversity.coop/) - vast library of interesting textbooks and other resources in PDF form
+ * [Microbe Wiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki) - a large student-edited multi-institutional wiki for microbiology
 
 
 ## tools and equipment:
@@ -92,8 +94,6 @@ Below is a curated list of awesome software and other resources to enable those 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
  * [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems. 
- * [United Diversity Co-op Library](http://library.uniteddiversity.coop/) - vast library of interesting textbooks and other resources in PDF form
- * [Microbe Wiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki) - a large student-edited multi-institutional wiki for microbiology
  * [iGEM](http://igem.org/Main_Page) - Student synthetic biology competition with connections to many DIY bio labs
  * [Biodesign Challenge](http://biodesignchallenge.org/) - a student design competition that concentrates on envisioning the future application of biotechnology
  * [Biofabricate](http://www.biofabricate.co/) - A design-focused annual conference that focuses on biotechnology-affiliated design, materials, and techniques.
