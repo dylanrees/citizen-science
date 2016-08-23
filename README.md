@@ -66,6 +66,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Smoky Mountain Scientific](http://www.smokymtsci.com/) - Modular, Low cost, open-source instrumentation for environmental monitoring.
  * [Raspberry Shake](https://www.kickstarter.com/projects/angelrodriguez/raspberry-shake-your-personal-seismograph) - an seismograph compatible with the Raspberry Pi
  * [Red Pitaya](http://redpitaya.com/) - open-source tool with multiple functions, such as an oscilloscope, spectrum analyzer, signal generator, and more
+ * [3D Printable Science Equipment](http://www.appropedia.org/3D_printable_science_equipment) - a list of different models
 
 ## publishing and doing research:
 
