@@ -42,6 +42,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry) - CU Boulder interactive physics and chemistry simulations
  * [United Diversity Co-op Library](http://library.uniteddiversity.coop/) - vast library of interesting textbooks and other resources in PDF form
  * [Microbe Wiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki) - a large student-edited multi-institutional wiki for microbiology
+ * [OpenCulture eBooks](http://www.openculture.com/free_ebooks) - the ebook section of a website dedicated to the open sharing of information.
 
 
 ## tools and equipment:
