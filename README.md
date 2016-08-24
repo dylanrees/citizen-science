@@ -104,6 +104,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Bucket Brigade](http://www.labucketbrigade.org/) - Norco, LA - based citizen science group fighting for environmental justice
  * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
 
+## Art and Science Spaces:
+
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
  * [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems. 
