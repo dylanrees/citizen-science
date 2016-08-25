@@ -123,6 +123,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
 * Ethics in research are often overseen by federal agencies or institutional review boards (IRBs). Is there a bottom-up, citizen-driven alternative to this?
 * How can we organize this information better?
+* How can we get more people engaged?
  
 ## How do I contribute to this list?
 
