@@ -12,10 +12,11 @@ Below is a curated list of awesome software and other resources to enable those 
   3. [Publishing and Doing Research](#publishing-and-doing-research)
   4. [Citizen Science Spaces](#citizen-science-spaces-and-projects)
   5. [Literature and Philosophy](#literature-and-philosophy)
-  5. [Other Resources](#other-resources)
-  6. [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
-  7. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
-  8. [License](#license)
+  6. [Funding](#funding)
+  7. [Other Resources](#other-resources)
+  8. [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
+  9. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
+  10. [License](#license)
 
 # The List
 
@@ -103,6 +104,10 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Radix Center](https://radixcenter.org/) - community-based urban sustainability / agriculture education center in Albany, NY
  * [The Bucket Brigade](http://www.labucketbrigade.org/) - Norco, LA - based citizen science group fighting for environmental justice
  * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
+
+## funding: 
+ * [Experiment.com](https://experiment.com/) - science crowdfunding platform
+
 
 ## other resources:
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network
