@@ -52,7 +52,7 @@ Below is a curated list of awesome software and other resources to enable those 
 ## tools and equipment:
 
  * [The ODIN](http://www.the-odin.com/) - a distributor of affordable DIY biology equipment
- * [Yeggi](http://www.yeggi.com/) - a search engine for 3D-printable models
+ * [Thingiverse](https://www.thingiverse.com/) - a search engine for 3D-printable models
  * [C.H.I.P](https://getchip.com/pages/chip) - A $9 Linux computer
  * [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/) - the cheapest, smallest Raspberry Pi ($5)
  * [Particle Electron](https://www.particle.io/products/hardware/electron-cellular-dev-kit?) - Raspberry Pi-like microcontroller for connecting the devices you make to the cellular network
