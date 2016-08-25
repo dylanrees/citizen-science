@@ -78,46 +78,46 @@ Below is a curated list of awesome software and other resources to enable those 
 
  * [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/) - An open-access, peer-reviewed journal dedicated to discussion about methods in citizen science.
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
- * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls
- * [SciHub](http://sci-hub.bz/) - another site for gaining access to science papers that are normally behind paywalls
- * [Public Library of Science (PLOS)](https://plos.org/) - nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science
- * [arXiv](http://arxiv.org/) - a Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math)
- * [Directory of Open Access Journals](https://doaj.org/) - over 9000 journals listed
+ * [LibGen](http://libgen.io/) - An online tool for gaining access to scientific articles that are normally beyond paywalls.
+ * [SciHub](http://sci-hub.bz/) - Another site for gaining access to science papers that are normally behind paywalls.
+ * [Public Library of Science (PLOS)](https://plos.org/) - Nonprofit organization that publishes open-access journals and also advocates for openness and tranparency in science.
+ * [arXiv](http://arxiv.org/) - A Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math).
+ * [Directory of Open Access Journals](https://doaj.org/) - Over 9000 journals listed.
  
 ## literature and philosophy:
- * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download) - A paper describing ways that citizen science can challenge existing scientific and political power structures
- * [Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](https://www.researchgate.net/publication/263120833_Institutions_for_Civic_Technoscience_How_Critical_Making_is_Transforming_Environmental_Research) - paper that introduces the term "civic technoscience" to describe knowledge creation by individuals outside of the academy and discusses the implications
- * [Return on Investment for Open Source Hardware Development](https://www.academia.edu/13799962/Return_on_Investment_for_Open_Source_Hardware_Development?auto=download) - a paper by Joshua Pearce, director of MOST (see "other resources" section)
- * [Citizen Science as an Ecological Research Tool: Challenges and Benefits](http://www.jstor.org/stable/pdf/27896218.pdf) - paper outlining the growing role of citizen science in advancing ecological research
+ * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download) - A paper describing ways that citizen science can challenge existing scientific and political power structures.
+ * [Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](https://www.researchgate.net/publication/263120833_Institutions_for_Civic_Technoscience_How_Critical_Making_is_Transforming_Environmental_Research) - A paper that introduces the term "civic technoscience" to describe knowledge creation by individuals outside of the academy and discusses the implications.
+ * [Return on Investment for Open Source Hardware Development](https://www.academia.edu/13799962/Return_on_Investment_for_Open_Source_Hardware_Development?auto=download) - A paper by Joshua Pearce, director of MOST (see "other resources" section).
+ * [Citizen Science as an Ecological Research Tool: Challenges and Benefits](http://www.jstor.org/stable/pdf/27896218.pdf) - A paper outlining the growing role of citizen science in advancing ecological research.
  
 ## citizen science spaces and projects:
  * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
- * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - community science lab based in Pittsburgh, PA
- * [The Community Science Initiative](http://www.communityscience.org/) - nonprofit water testing and environmental data organization in Ithaca, NY
+ * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - A community science lab based in Pittsburgh, PA.
+ * [The Community Science Initiative](http://www.communityscience.org/) - A nonprofit water testing and environmental data organization in Ithaca, NY.
  * [BioCurious](http://biocurious.org/) - The first biohacking space in the world, located in Sunnyvale, CA
- * [HiveBio](http://hivebio.org/) - Seattle community bio lab
- * [Sanctuary for Weedy Species](http://ellieirons.com/projects/sanctuary/) - Brooklyn-based urban ecology project
- * [Coweeta Listening Project](https://listening.coweeta.uga.edu/#) - Southern Appalachian project combining ecological research with civic action
- * [BioBus](http://www.biobus.org/) - mobile science education lab
- * [SynthTechBio Network](http://www.syntechbio.com/) - Latin American biohackers' network
- * [The Radix Center](https://radixcenter.org/) - community-based urban sustainability / agriculture education center in Albany, NY
- * [The Bucket Brigade](http://www.labucketbrigade.org/) - Norco, LA - based citizen science group fighting for environmental justice
+ * [HiveBio](http://hivebio.org/) - Seattle community bio lab.
+ * [Sanctuary for Weedy Species](http://ellieirons.com/projects/sanctuary/) - A Brooklyn-based urban ecology project.
+ * [Coweeta Listening Project](https://listening.coweeta.uga.edu/#) - Southern Appalachian project combining ecological research with civic action.
+ * [BioBus](http://www.biobus.org/) - A mobile science education lab.
+ * [SynthTechBio Network](http://www.syntechbio.com/) - Latin American biohackers' network.
+ * [The Radix Center](https://radixcenter.org/) - Community-based urban sustainability / agriculture education center in Albany, NY.
+ * [The Bucket Brigade](http://www.labucketbrigade.org/) - A Norco, LA - based citizen science group fighting for environmental justice.
  * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
 
 ## funding: 
- * [Experiment.com](https://experiment.com/) - science crowdfunding platform
+ * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
 
 
 ## other resources:
- * [Public Lab](https://publiclab.org/) - A DIY environmental science network
+ * [Public Lab](https://publiclab.org/) - A DIY environmental science network.
  * [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems. 
- * [iGEM](http://igem.org/Main_Page) - Student synthetic biology competition with connections to many DIY bio labs
- * [Biodesign Challenge](http://biodesignchallenge.org/) - a student design competition that concentrates on envisioning the future application of biotechnology
+ * [iGEM](http://igem.org/Main_Page) - Student synthetic biology competition with connections to many DIY bio labs.
+ * [Biodesign Challenge](http://biodesignchallenge.org/) - Student design competition that concentrates on envisioning the future application of biotechnology.
  * [Biofabricate](http://www.biofabricate.co/) - A design-focused annual conference that focuses on biotechnology-affiliated design, materials, and techniques.
- * [MOST](http://www.appropedia.org/Category:MOST) - The Pearce Research Group at Michigan Tech in Open Sustainability Technology
- * [OSGeo](http://www.osgeo.org/) - The Open Source Geospatial Foundation, which offers a lot of open tools for working with GIS data
- * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia
- * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - maintained by the US government
+ * [MOST](http://www.appropedia.org/Category:MOST) - The Pearce Research Group at Michigan Tech in Open Sustainability Technology.
+ * [OSGeo](http://www.osgeo.org/) - The Open Source Geospatial Foundation, which offers a lot of open tools for working with GIS data.
+ * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia.
+ * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  
 ## questions and knowledge gaps:
 
