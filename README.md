@@ -11,12 +11,13 @@ Below is a curated list of awesome software and other resources to enable those 
   2. [Equipment](#tools-and-equipment)
   3. [Publishing and Doing Research](#publishing-and-doing-research)
   4. [Citizen Science Spaces](#citizen-science-spaces-and-projects)
-  5. [Literature and Philosophy](#literature-and-philosophy)
-  6. [Funding](#funding)
-  7. [Other Resources](#other-resources)
-  8. [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
-  9. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
-  10. [License](#license)
+  5. [Art and Science Spaces](#art-and-science-spaces)
+  6. [Literature and Philosophy](#literature-and-philosophy)
+  7. [Funding](#funding)
+  8. [Other Resources](#other-resources)
+  9. [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
+  10. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
+  11. [License](#license)
 
 # The List
 
