@@ -22,58 +22,57 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ## software:
 
- * [Zotero](https://www.zotero.org/) - open-source citation management software
- * [mMass](http://www.mmass.org/) - open-source mass spectrometry software
- * [TiddlyWiki](http://tiddlywiki.com/) - easily create your own wikis to organize information
- * [Grafana](http://grafana.org/) - Create a dashboard (online if you wish) that visualizes you experimental data
- * [Evergreen ILS](http://evergreen-ils.org/) - software for managing a library of books (and the loaning process)
- * [OpenSCAD](http://www.openscad.org/) - 3D modeling software
- * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA
- * [SageMath](https://cloud.sagemath.com/) - Open-source cloud-based computation (similar to MATLAB and Mathematica)
- * [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) - free and open source productivity software (write documents, spreadsheets, presentations, and more)
- * [GNU Octave](https://www.gnu.org/software/octave/) - Free software numerical computation program, similar to MATLAB
- * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts
- * [Open Science Framework](https://osf.io/) - open-source collaborative project manager for scientific research
- * [Dia](http://dia-installer.de/) - open-source software for making diagrams
- * [Gephi](https://gephi.org/) - open graph visualization platform
- * [QGIS](http://www.qgis.org/en/site/) - open GIS software
- * [Calibre](http://calibre-ebook.com/) - ebook management software
- * [Stellarium](http://www.stellarium.org/) - open-source planetarium software
+ * [Zotero](https://www.zotero.org/) - Open-source citation management software.
+ * [mMass](http://www.mmass.org/) - Open-source software for mass spectrometers.
+ * [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
+ * [Grafana](http://grafana.org/) - Create a dashboard (online if you wish) that visualizes you experimental data.
+ * [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
+ * [OpenSCAD](http://www.openscad.org/) - 3D modeling software.
+ * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+ * [SageMath](https://cloud.sagemath.com/) - Open-source cloud-based computation (similar to MATLAB and Mathematica).
+ * [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) - Free and open source productivity software (write documents, spreadsheets, presentations, and more).
+ * [GNU Octave](https://www.gnu.org/software/octave/) - Free software numerical computation program, similar to MATLAB.
+ * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
+ * [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
+ * [Dia](http://dia-installer.de/) - Open-source software for making diagrams.
+ * [Gephi](https://gephi.org/) - Open graph visualization platform.
+ * [QGIS](http://www.qgis.org/en/site/) - Open GIS software.
+ * [Calibre](http://calibre-ebook.com/) - eBook management software.
+ * [Stellarium](http://www.stellarium.org/) - Open-source planetarium software.
  
 ## educational:
- * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks
- * [OpenStax](https://openstax.org/) - repository of free/cheap open-source textbooks on many subjects
- * [PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry) - CU Boulder interactive physics and chemistry simulations
- * [United Diversity Co-op Library](http://library.uniteddiversity.coop/) - vast library of interesting textbooks and other resources in PDF form
- * [Microbe Wiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki) - a large student-edited multi-institutional wiki for microbiology
- * [OpenCulture Textbooks](http://www.openculture.com/free_textbooks) - the textbook section of a website dedicated to the open sharing of information.
- * [Free Tech Books](http://www.freetechbooks.com/categories) - free ebooks (mostly computer science and engineering)
-
+ * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks.
+ * [OpenStax](https://openstax.org/) - Repository of open-licensed and collaboratively-edited textbooks on many basic subjects. You can download them as ebooks or order print copies.
+ * [PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry) - CU Boulder interactive physics and chemistry simulations.
+ * [United Diversity Co-op Library](http://library.uniteddiversity.coop/) - A vast library of interesting textbooks and other resources in PDF form on such topics as permaculture, agriculture, economics, crafts and activism.
+ * [Microbe Wiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki) - A large student-edited multi-institutional wiki for microbiology.
+ * [OpenCulture Textbooks](http://www.openculture.com/free_textbooks) - The textbook section of a website dedicated to the open sharing of information.
+ * [Free Tech Books](http://www.freetechbooks.com/categories) - Free ebooks (mostly computer science and engineering).
 
 ## tools and equipment:
 
- * [The ODIN](http://www.the-odin.com/) - a distributor of affordable DIY biology equipment
- * [Thingiverse](https://www.thingiverse.com/) - a search engine for 3D-printable models
- * [C.H.I.P](https://getchip.com/pages/chip) - A $9 Linux computer
- * [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/) - the cheapest, smallest Raspberry Pi ($5)
- * [Particle Electron](https://www.particle.io/products/hardware/electron-cellular-dev-kit?) - Raspberry Pi-like microcontroller for connecting the devices you make to the cellular network
- * [OpenTrons](http://opentrons.com/) - an open-source liquid handling robot
- * [OpenPCR](http://openpcr.org/) - an open-source PCR thermocycler
- * [Ember](https://ember.autodesk.com/) - a comprehensively open-source DLP SLA 3D Printer project, powered by Autodesk
- * [SparkFun](https://www.sparkfun.com/) - company selling all sorts of electronics, including sensors
- * [Bento Box](https://www.bento.bio/) - a low-cost PCR workstation from Bento Lab
- * [SGD](www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database
- * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment
- * [Global Village Construction Set](http://opensourceecology.org/gvcs/gvcs-machine-index/) - open source civilization-building tools
- * [Precious Plastic](https://preciousplastic.com/en/videos/build/extrusion/) - make your own 3D printer filament
- * [Generic Lab Equipment](http://hackteria.org/wiki/Generic_Lab_Equipment) - Wiki with instructions on building DIY lab equipment
- * [Build My Lab Contest](http://www.instructables.com/contest/buildmylab/) - a competition to create instructables for DIY lab equipment
- * [Farming Concrete Data Collection Toolkit](https://farmingconcrete.org/toolkit/) - "Methods for measuring the outcomes and impacts of community gardens and urban farms"
+ * [The ODIN](http://www.the-odin.com/) - A distributor of affordable DIY biology equipment.
+ * [Thingiverse](https://www.thingiverse.com/) - A search engine for 3D-printable models.
+ * [C.H.I.P](https://getchip.com/pages/chip) - A $9 Linux computer.
+ * [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/) - The cheapest, smallest Raspberry Pi ($5).
+ * [Particle Electron](https://www.particle.io/products/hardware/electron-cellular-dev-kit?) - Raspberry Pi-like microcontroller for connecting the devices you make to the cellular network.
+ * [OpenTrons](http://opentrons.com/) - An open-source liquid-handling robot.
+ * [OpenPCR](http://openpcr.org/) - An open-source PCR thermocycler.
+ * [Ember](https://ember.autodesk.com/) - A comprehensively open-source DLP SLA 3D Printer project, powered by Autodesk.
+ * [SparkFun](https://www.sparkfun.com/) - A company selling all sorts of electronics for DIY projects, including sensors.
+ * [Bento Box](https://www.bento.bio/) - A low-cost PCR workstation from Bento Lab.
+ * [SGD](www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database.
+ * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment.
+ * [Global Village Construction Set](http://opensourceecology.org/gvcs/gvcs-machine-index/) - Open-source farm equipment and other civilization-building tools.
+ * [Precious Plastic](https://preciousplastic.com/en/videos/build/extrusion/) - Make your own 3D printer filament.
+ * [Generic Lab Equipment](http://hackteria.org/wiki/Generic_Lab_Equipment) - Wiki with instructions on building DIY lab equipment.
+ * [Build My Lab Contest](http://www.instructables.com/contest/buildmylab/) - A competition to create instructables for DIY lab equipment.
+ * [Farming Concrete Data Collection Toolkit](https://farmingconcrete.org/toolkit/) - "Methods for measuring the outcomes and impacts of community gardens and urban farms."
  * [Smoky Mountain Scientific](http://www.smokymtsci.com/) - Modular, Low cost, open-source instrumentation for environmental monitoring.
- * [Raspberry Shake](https://www.kickstarter.com/projects/angelrodriguez/raspberry-shake-your-personal-seismograph) - an seismograph compatible with the Raspberry Pi
- * [Red Pitaya](http://redpitaya.com/) - open-source tool with multiple functions, such as an oscilloscope, spectrum analyzer, signal generator, and more
- * [3D Printable Science Equipment](http://www.appropedia.org/3D_printable_science_equipment) - a list of different models
- * [IORodeo](http://iorodeo.com/) - sells a cheap open-source potentiostat, a colorimeter, and some other equipment
+ * [Raspberry Shake](https://www.kickstarter.com/projects/angelrodriguez/raspberry-shake-your-personal-seismograph) - A seismograph compatible with the Raspberry Pi.
+ * [Red Pitaya](http://redpitaya.com/) - Open-source tool with multiple signal processing functions, such as an oscilloscope, spectrum analyzer, signal generator, and more.
+ * [3D Printable Science Equipment](http://www.appropedia.org/3D_printable_science_equipment) - A list of different 3d-printable science objects with models.
+ * [IORodeo](http://iorodeo.com/) - Sells a cheap open-source potentiostat, a colorimeter, and some other equipment.
 
 ## publishing and doing research:
 
