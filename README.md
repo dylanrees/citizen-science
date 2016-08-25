@@ -103,6 +103,10 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Radix Center](https://radixcenter.org/) - Community-based urban sustainability / agriculture education center in Albany, NY.
  * [The Bucket Brigade](http://www.labucketbrigade.org/) - A Norco, LA - based citizen science group fighting for environmental justice.
  * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
+ 
+## art and science spaces:
+ (to be filled in soon)
+ 
 
 ## funding: 
  * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
