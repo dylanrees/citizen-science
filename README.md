@@ -40,6 +40,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [QGIS](http://www.qgis.org/en/site/) - Open GIS software.
  * [Calibre](http://calibre-ebook.com/) - eBook management software.
  * [Stellarium](http://www.stellarium.org/) - Open-source planetarium software.
+ * [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/) - a tool for turning Minecraft model files into 3D-printable .stl files
  
 ## educational:
  * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks.
