@@ -4,24 +4,22 @@ Below is a curated list of awesome software and other resources to enable those 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Table of Contents
+## Contents
 
-  1. [Software](#software)
-  2. [Educational](#educational)
-  2. [Equipment](#tools-and-equipment)
-  3. [Publishing and Doing Research](#publishing-and-doing-research)
-  4. [Citizen Science Spaces](#citizen-science-spaces-and-projects)
-  5. [Art and Science Spaces](#art-and-science-spaces)
-  6. [Literature and Philosophy](#literature-and-philosophy)
-  7. [Funding](#funding)
-  8. [Other Resources](#other-resources)
-  9. [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
-  10. [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
-  11. [License](#license)
+  - [Software](#software)
+  - [Educational](#educational)
+  - [Equipment](#tools-and-equipment)
+  - [Publishing and Doing Research](#publishing-and-doing-research)
+  - [Citizen Science Spaces](#citizen-science-spaces-and-projects)
+  - [Art and Science Spaces](#art-and-science-spaces)
+  - [Literature and Philosophy](#literature-and-philosophy)
+  - [Funding](#funding)
+  - [Other Resources](#other-resources)
+  - [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
+  - [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
+  - [License](#license)
 
-# The List
-
-## software:
+## Software
 
  * [Zotero](https://www.zotero.org/) - Open-source citation management software.
  * [mMass](http://www.mmass.org/) - Open-source software for mass spectrometers.
@@ -42,7 +40,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Stellarium](http://www.stellarium.org/) - Open-source planetarium software.
  * [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/) - a tool for turning Minecraft model files into 3D-printable .stl files
  
-## educational:
+## Educational
+
  * [Light and Matter](http://lightandmatter.com/) - Benjamin Crowell's free-to-download, cheap-to-buy open source physics textbooks.
  * [OpenStax](https://openstax.org/) - Repository of open-licensed and collaboratively-edited textbooks on many basic subjects. You can download them as ebooks or order print copies.
  * [PhET Simulations](https://phet.colorado.edu/en/simulations/category/chemistry) - CU Boulder interactive physics and chemistry simulations.
@@ -51,7 +50,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [OpenCulture Textbooks](http://www.openculture.com/free_textbooks) - The textbook section of a website dedicated to the open sharing of information.
  * [Free Tech Books](http://www.freetechbooks.com/categories) - Free ebooks (mostly computer science and engineering).
 
-## tools and equipment:
+## Tools and Equipment
 
  * [The ODIN](http://www.the-odin.com/) - A distributor of affordable DIY biology equipment.
  * [Thingiverse](https://www.thingiverse.com/) - A search engine for 3D-printable models.
@@ -76,7 +75,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [3D Printable Science Equipment](http://www.appropedia.org/3D_printable_science_equipment) - A list of different 3d-printable science objects with models.
  * [IORodeo](http://iorodeo.com/) - Sells a cheap open-source potentiostat, a colorimeter, and some other equipment.
 
-## publishing and doing research:
+## Publishing and Doing Research
 
  * [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/) - An open-access, peer-reviewed journal dedicated to discussion about methods in citizen science.
  * [Scholar Subreddit](https://www.reddit.com/r/scholar) - A great place to request help getting access to scientific papers that are beyond paywalls.
@@ -86,13 +85,15 @@ Below is a curated list of awesome software and other resources to enable those 
  * [arXiv](http://arxiv.org/) - A Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math).
  * [Directory of Open Access Journals](https://doaj.org/) - Over 9000 journals listed.
  
-## literature and philosophy:
+## Literature and Philosophy
+
  * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download) - A paper describing ways that citizen science can challenge existing scientific and political power structures.
  * [Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](https://www.researchgate.net/publication/263120833_Institutions_for_Civic_Technoscience_How_Critical_Making_is_Transforming_Environmental_Research) - A paper that introduces the term "civic technoscience" to describe knowledge creation by individuals outside of the academy and discusses the implications.
  * [Return on Investment for Open Source Hardware Development](https://www.academia.edu/13799962/Return_on_Investment_for_Open_Source_Hardware_Development?auto=download) - A paper by Joshua Pearce, director of MOST (see "other resources" section).
  * [Citizen Science as an Ecological Research Tool: Challenges and Benefits](http://www.jstor.org/stable/pdf/27896218.pdf) - A paper outlining the growing role of citizen science in advancing ecological research.
  
-## citizen science spaces and projects:
+## Citizen Science Spaces and Projects
+
  * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
  * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - A community science lab based in Pittsburgh, PA.
  * [The Community Science Initiative](http://www.communityscience.org/) - A nonprofit water testing and environmental data organization in Ithaca, NY.
@@ -106,16 +107,17 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Bucket Brigade](http://www.labucketbrigade.org/) - A Norco, LA - based citizen science group fighting for environmental justice.
  * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
  
-## art and science spaces:
+## Art and Science Spaces
+
  (to be filled in soon)
  
 
-## funding: 
+## Funding
  * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
  * [The Awesome Foundation](http://www.awesomefoundation.org/) - A nonprofit that funds awesome projects with microgrants $1000 at a time.
 
 
-## other resources:
+## Other Resources
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network.
  * [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems. 
  * [iGEM](http://igem.org/Main_Page) - Student synthetic biology competition with connections to many DIY bio labs.
@@ -126,7 +128,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia.
  * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  
-## questions and knowledge gaps:
+## Questions and Knowledge Gaps
 
 * Ethics in research are often overseen by federal agencies or institutional review boards (IRBs). Is there a bottom-up, citizen-driven alternative to this?
 * How can we organize this information better?
@@ -134,8 +136,8 @@ Below is a curated list of awesome software and other resources to enable those 
 ## How do I contribute to this list?
 
 Have an idea of a tool that should be on this list? Here's how you can add it:
- * **Familiar with github?** Send a pull request with your suggestions. Please also see the [contribution guidelines](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
- * **Not familiar with github?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
+ * **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+ * **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## License
 
