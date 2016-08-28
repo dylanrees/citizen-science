@@ -106,6 +106,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Radix Center](https://radixcenter.org/) - Community-based urban sustainability / agriculture education center in Albany, NY.
  * [The Bucket Brigade](http://www.labucketbrigade.org/) - A Norco, LA - based citizen science group fighting for environmental justice.
  * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
+ * [Safecast](http://blog.safecast.org/) - An online citizen science project collecting and visualizing radioactivity data across the globe.
  
 ## Art and Science Spaces
 
