@@ -74,6 +74,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Red Pitaya](http://redpitaya.com/) - Open-source tool with multiple signal processing functions, such as an oscilloscope, spectrum analyzer, signal generator, and more.
  * [3D Printable Science Equipment](http://www.appropedia.org/3D_printable_science_equipment) - A list of different 3d-printable science objects with models.
  * [IORodeo](http://iorodeo.com/) - Sells a cheap open-source potentiostat, a colorimeter, and some other equipment.
+ * [IDA Systems](http://idasystems.net/) - An Indian manufacturer of open hardware devices.
 
 ## Publishing and Doing Research
 
@@ -129,6 +130,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [OSGeo](http://www.osgeo.org/) - The Open Source Geospatial Foundation, which offers a lot of open tools for working with GIS data.
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia.
  * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
+ * [The Open Source Hardware Association](http://www.oshwa.org/) - A resource for all things open hardware, including designs and legal considerations.
  
 ## Questions and Knowledge Gaps
 
