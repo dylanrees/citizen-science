@@ -118,6 +118,7 @@ Below is a curated list of awesome software and other resources to enable those 
 ## Funding
  * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
  * [The Awesome Foundation](http://www.awesomefoundation.org/) - A nonprofit that funds awesome projects with microgrants $1000 at a time.
+ * [Endeavorist](https://www.endeavorist.org/#!/) - A "curiosity network" for science and technology that combines a social network with crowdfunding.
 
 
 ## Other Resources
