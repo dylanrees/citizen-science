@@ -62,7 +62,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Ember](https://ember.autodesk.com/) - A comprehensively open-source DLP SLA 3D Printer project, powered by Autodesk.
  * [SparkFun](https://www.sparkfun.com/) - A company selling all sorts of electronics for DIY projects, including sensors.
  * [Bento Box](https://www.bento.bio/) - A low-cost PCR workstation from Bento Lab.
- * [SGD](www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database.
+ * [SGD](http://www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database.
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment.
  * [Global Village Construction Set](http://opensourceecology.org/gvcs/gvcs-machine-index/) - Open-source farm equipment and other civilization-building tools.
  * [Precious Plastic](https://preciousplastic.com/en/videos/build/extrusion/) - Make your own 3D printer filament.
