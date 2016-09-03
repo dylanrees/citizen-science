@@ -109,6 +109,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Bucket Brigade](http://www.labucketbrigade.org/) - A Norco, LA - based citizen science group fighting for environmental justice.
  * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
  * [Safecast](http://blog.safecast.org/) - An online citizen science project collecting and visualizing radioactivity data across the globe.
+ * [Fab Foundation](http://fabfoundation.org/about-us/) - an organization that facilitaties a network of digital fabrication "Fab Labs"
  
 ## Art and Science Spaces
 
