@@ -49,6 +49,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Microbe Wiki](https://microbewiki.kenyon.edu/index.php/MicrobeWiki) - A large student-edited multi-institutional wiki for microbiology.
  * [OpenCulture Textbooks](http://www.openculture.com/free_textbooks) - The textbook section of a website dedicated to the open sharing of information.
  * [Free Tech Books](http://www.freetechbooks.com/categories) - Free ebooks (mostly computer science and engineering).
+ * [OpenWetWare](http://openwetware.org/wiki/Main_Page) - A site that maintains a list of bio lab protocols as well as an electronic lab notebook for team use.
 
 ## Tools and Equipment
 
