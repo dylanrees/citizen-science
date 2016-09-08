@@ -111,6 +111,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
  * [Safecast](http://blog.safecast.org/) - An online citizen science project collecting and visualizing radioactivity data across the globe.
  * [Fab Foundation](http://fabfoundation.org/about-us/) - an organization that facilitaties a network of digital fabrication "Fab Labs"
+ * [Farm Hack](http://farmhack.org/tools) - A project for producing open farm tools.
  
 ## Art and Science Spaces
 
