@@ -97,6 +97,8 @@ Below is a curated list of awesome software and other resources to enable those 
  
 ## Citizen Science Spaces and Projects
 
+### Environmental
+
  * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
  * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - A community science lab based in Pittsburgh, PA.
  * [The Community Science Initiative](http://www.communityscience.org/) - A nonprofit water testing and environmental data organization in Ithaca, NY.
