@@ -135,6 +135,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia.
  * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  * [The Open Source Hardware Association](http://www.oshwa.org/) - A resource for all things open hardware, including designs and legal considerations.
+ * [Four Thieves Vinegar Collective](https://fourthievesvinegar.org/) - A group working on DIY pharma-hacking projects, such as a $30 alternative to $600 epi-pens.
  
 ## Questions and Knowledge Gaps
 
