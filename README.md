@@ -97,29 +97,35 @@ Below is a curated list of awesome software and other resources to enable those 
  
 ## Citizen Science Spaces and Projects
 
-### Environmental
+### Genetics/Biohacking
 
  * [Genspace](http://genspace.org/) - One of the oldest and most successful DIY Bio labs, located in Brooklyn, NYC.
- * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - A community science lab based in Pittsburgh, PA.
- * [The Community Science Initiative](http://www.communityscience.org/) - A nonprofit water testing and environmental data organization in Ithaca, NY.
  * [BioCurious](http://biocurious.org/) - The first biohacking space in the world, located in Sunnyvale, CA
  * [HiveBio](http://hivebio.org/) - Seattle community bio lab.
+ * [SynthTechBio Network](http://www.syntechbio.com/) - Latin American biohackers' network.
+ * [Four Thieves Vinegar Collective](https://fourthievesvinegar.org/) - A group working on DIY pharma-hacking projects, such as a $30 alternative to $600 epi-pens.
+
+### Environment
+
+ * [The Community Science Initiative](http://www.communityscience.org/) - A nonprofit water testing and environmental data organization in Ithaca, NY.
  * [Sanctuary for Weedy Species](http://ellieirons.com/projects/sanctuary/) - A Brooklyn-based urban ecology project.
  * [Coweeta Listening Project](https://listening.coweeta.uga.edu/#) - Southern Appalachian project combining ecological research with civic action.
- * [BioBus](http://www.biobus.org/) - A mobile science education lab.
- * [SynthTechBio Network](http://www.syntechbio.com/) - Latin American biohackers' network.
  * [The Radix Center](https://radixcenter.org/) - Community-based urban sustainability / agriculture education center in Albany, NY.
  * [The Bucket Brigade](http://www.labucketbrigade.org/) - A Norco, LA - based citizen science group fighting for environmental justice.
- * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
  * [Safecast](http://blog.safecast.org/) - An online citizen science project collecting and visualizing radioactivity data across the globe.
+ * [Rainforest Connection](https://rfcx.org/) - Project sing old smartphones as sensors to combat illegal logging.
+
+### Other
+
+ * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - A community science lab based in Pittsburgh, PA.
+ * [BioBus](http://www.biobus.org/) - A mobile science education lab.
+ * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
  * [Fab Foundation](http://fabfoundation.org/about-us/) - an organization that facilitaties a network of digital fabrication "Fab Labs"
  * [Farm Hack](http://farmhack.org/tools) - A project for producing open farm tools.
- * [Rainforest Connection](https://rfcx.org/) - Using old smartphones as sensors to combat illegal logging.
  
 ## Art and Science Spaces
 
  (to be filled in soon)
- 
 
 ## Funding
  * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
@@ -138,7 +144,6 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia.
  * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  * [The Open Source Hardware Association](http://www.oshwa.org/) - A resource for all things open hardware, including designs and legal considerations.
- * [Four Thieves Vinegar Collective](https://fourthievesvinegar.org/) - A group working on DIY pharma-hacking projects, such as a $30 alternative to $600 epi-pens.
  
 ## Questions and Knowledge Gaps
 
