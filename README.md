@@ -144,6 +144,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia.
  * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  * [The Open Source Hardware Association](http://www.oshwa.org/) - A resource for all things open hardware, including designs and legal considerations.
+ * [Science for the People](http://science-for-the-people.org/) - A late 1960s/early 1970s radical science movement whose literature has been organized on a website by UMass Amherst.
  
 ## Questions and Knowledge Gaps
 
