@@ -53,30 +53,45 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ## Tools and Equipment
 
+### Biology and Chemistry
+
  * [The ODIN](http://www.the-odin.com/) - A distributor of affordable DIY biology equipment.
- * [Thingiverse](https://www.thingiverse.com/) - A search engine for 3D-printable models.
- * [C.H.I.P](https://getchip.com/pages/chip) - A $9 Linux computer.
- * [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/) - The cheapest, smallest Raspberry Pi ($5).
- * [Particle Electron](https://www.particle.io/products/hardware/electron-cellular-dev-kit?) - Raspberry Pi-like microcontroller for connecting the devices you make to the cellular network.
+ * [Bento Box](https://www.bento.bio/) - A low-cost PCR workstation from Bento Lab.
  * [OpenTrons](http://opentrons.com/) - An open-source liquid-handling robot.
  * [OpenPCR](http://openpcr.org/) - An open-source PCR thermocycler.
- * [Ember](https://ember.autodesk.com/) - A comprehensively open-source DLP SLA 3D Printer project, powered by Autodesk.
- * [SparkFun](https://www.sparkfun.com/) - A company selling all sorts of electronics for DIY projects, including sensors.
- * [Bento Box](https://www.bento.bio/) - A low-cost PCR workstation from Bento Lab.
  * [SGD](http://www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database.
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment.
- * [Global Village Construction Set](http://opensourceecology.org/gvcs/gvcs-machine-index/) - Open-source farm equipment and other civilization-building tools.
- * [Precious Plastic](https://preciousplastic.com/en/videos/build/extrusion/) - Make your own 3D printer filament.
- * [Generic Lab Equipment](http://hackteria.org/wiki/Generic_Lab_Equipment) - Wiki with instructions on building DIY lab equipment.
- * [Build My Lab Contest](http://www.instructables.com/contest/buildmylab/) - A competition to create instructables for DIY lab equipment.
- * [Farming Concrete Data Collection Toolkit](https://farmingconcrete.org/toolkit/) - "Methods for measuring the outcomes and impacts of community gardens and urban farms."
- * [Smoky Mountain Scientific](http://www.smokymtsci.com/) - Modular, Low cost, open-source instrumentation for environmental monitoring.
- * [Raspberry Shake](https://www.kickstarter.com/projects/angelrodriguez/raspberry-shake-your-personal-seismograph) - A seismograph compatible with the Raspberry Pi.
- * [Red Pitaya](http://redpitaya.com/) - Open-source tool with multiple signal processing functions, such as an oscilloscope, spectrum analyzer, signal generator, and more.
- * [3D Printable Science Equipment](http://www.appropedia.org/3D_printable_science_equipment) - A list of different 3d-printable science objects with models.
  * [IORodeo](http://iorodeo.com/) - Sells a cheap open-source potentiostat, a colorimeter, and some other equipment.
- * [IDA Systems](http://idasystems.net/) - An Indian manufacturer of open hardware devices.
+ 
+### Environmental Science and Geology
 
+ * [Raspberry Shake](https://www.kickstarter.com/projects/angelrodriguez/raspberry-shake-your-personal-seismograph) - A seismograph compatible with the Raspberry Pi.
+ * [Smoky Mountain Scientific](http://www.smokymtsci.com/) - Modular, Low cost, open-source instrumentation for environmental monitoring.
+
+### 3D Printing and Fabrication
+
+ * [Thingiverse](https://www.thingiverse.com/) - A search engine for 3D-printable models.
+ * [Ember](https://ember.autodesk.com/) - A comprehensively open-source DLP SLA 3D Printer project, powered by Autodesk.
+ * [3D Printable Science Equipment](http://www.appropedia.org/3D_printable_science_equipment) - A list of different 3d-printable science objects with models.
+ * [Precious Plastic](https://preciousplastic.com/en/videos/build/extrusion/) - Make your own 3D printer filament.
+
+### Electronics
+
+  * [C.H.I.P](https://getchip.com/pages/chip) - A $9 Linux computer.
+  * [Raspberry Pi Zero](https://www.raspberrypi.org/products/pi-zero/) - The cheapest, smallest Raspberry Pi ($5).
+  * [Particle Electron](https://www.particle.io/products/hardware/electron-cellular-dev-kit?) - Raspberry Pi-like microcontroller for connecting the devices you make to the cellular network.
+  * [SparkFun](https://www.sparkfun.com/) - A company selling all sorts of electronics for DIY projects, including sensors.
+  * [Red Pitaya](http://redpitaya.com/) - Open-source tool with multiple signal processing functions, such as an oscilloscope, spectrum analyzer, signal generator, and more.
+  * [Podo](http://podolabs.com/#buy) - A stickable, hi-resolution Bluetooth camera.
+  * [IDA Systems](http://idasystems.net/) - An Indian manufacturer of open hardware devices.
+
+### Other
+
+ * [Global Village Construction Set](http://opensourceecology.org/gvcs/gvcs-machine-index/) - Open-source farm equipment and other civilization-building tools.
+ * [Farming Concrete Data Collection Toolkit](https://farmingconcrete.org/toolkit/) - "Methods for measuring the outcomes and impacts of community gardens and urban farms."
+ * [Build My Lab Contest](http://www.instructables.com/contest/buildmylab/) - A competition to create instructables for DIY lab equipment.
+ * [Generic Lab Equipment](http://hackteria.org/wiki/Generic_Lab_Equipment) - Wiki with instructions on building DIY lab equipment.
+ 
 ## Publishing and Doing Research
 
  * [Citizen Science: Theory and Practice](http://theoryandpractice.citizenscienceassociation.org/) - An open-access, peer-reviewed journal dedicated to discussion about methods in citizen science.
