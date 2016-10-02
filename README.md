@@ -162,6 +162,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  * [The Open Source Hardware Association](http://www.oshwa.org/) - A resource for all things open hardware, including designs and legal considerations.
  * [Science for the People](http://science-for-the-people.org/) - A late 1960s/early 1970s radical science movement whose literature has been organized on a website by UMass Amherst.
+ * [SciStarter](http://scistarter.com/finder) - A search engine for finding citizen science projects to participate in.
  
 ## Questions and Knowledge Gaps
 
