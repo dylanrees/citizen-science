@@ -13,7 +13,7 @@ Below is a curated list of awesome software and other resources to enable those 
   - [Citizen Science Spaces and Projects](#citizen-science-spaces-and-projects)
   - [Art and Science Spaces](#art-and-science-spaces)
   - [Literature and Philosophy](#literature-and-philosophy)
-  - [Funding](#funding)
+  - [Funding and Support](#funding-and-support)
   - [Other Resources](#other-resources)
   - [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
   - [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
@@ -144,10 +144,11 @@ Below is a curated list of awesome software and other resources to enable those 
 
  (to be filled in soon)
 
-## Funding
+## Funding and Support
  * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
  * [The Awesome Foundation](http://www.awesomefoundation.org/) - A nonprofit that funds awesome projects with microgrants $1000 at a time.
  * [Endeavorist](https://www.endeavorist.org/#!/) - A "curiosity network" for science and technology that combines a social network with crowdfunding.
+ * [Herb Society of America](http://www.herbsociety.org/support/grants-scholarships/grant-details.html) - Offers some grants that are compatible with small, non-institutional research projects
 
 
 ## Other Resources
