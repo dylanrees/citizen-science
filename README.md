@@ -152,6 +152,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Herb Society of America](http://www.herbsociety.org/support/grants-scholarships/grant-details.html) - Offers some grants that are compatible with small, non-institutional research projects.
  * [Seeding Labs](https://seedinglabs.org/) - Equipment and funding for labs in developing countries.
  * [EPA Environmental Education Grants](https://www.epa.gov/education/environmental-education-ee-grants) - Grants available for small community organizations.
+ * [CollabFinder](http://collabfinder.com/) - A place to find collaborators for your project.
+ * [OpenLab-Blueprint](http://openlab-blueprint.org/) - Informational resources for upstart DIY science labs, put together by members of Genspace.
 
 
 ## Other Resources
@@ -167,7 +169,6 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Open Source Hardware Association](http://www.oshwa.org/) - A resource for all things open hardware, including designs and legal considerations.
  * [Science for the People](http://science-for-the-people.org/) - A late 1960s/early 1970s radical science movement whose literature has been organized on a website by UMass Amherst.
  * [SciStarter](http://scistarter.com/finder) - A search engine for finding citizen science projects to participate in.
- * [OpenLab-Blueprint](http://openlab-blueprint.org/) - Resources for upstart DIY science labs, put together by members of Genspace.
  * [Biocanvas](http://biocanvas.net/) - A collection of biological images as art.
  
 ## Questions and Knowledge Gaps
