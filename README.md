@@ -148,7 +148,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
  * [The Awesome Foundation](http://www.awesomefoundation.org/) - A nonprofit that funds awesome projects with microgrants $1000 at a time.
  * [Endeavorist](https://www.endeavorist.org/#!/) - A "curiosity network" for science and technology that combines a social network with crowdfunding.
- * [Herb Society of America](http://www.herbsociety.org/support/grants-scholarships/grant-details.html) - Offers some grants that are compatible with small, non-institutional research projects
+ * [Herb Society of America](http://www.herbsociety.org/support/grants-scholarships/grant-details.html) - Offers some grants that are compatible with small, non-institutional research projects.
+ * [Seeding Labs](https://seedinglabs.org/) - Equipment and funding for labs in developing countries.
 
 
 ## Other Resources
