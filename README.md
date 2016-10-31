@@ -150,6 +150,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Endeavorist](https://www.endeavorist.org/#!/) - A "curiosity network" for science and technology that combines a social network with crowdfunding.
  * [Herb Society of America](http://www.herbsociety.org/support/grants-scholarships/grant-details.html) - Offers some grants that are compatible with small, non-institutional research projects.
  * [Seeding Labs](https://seedinglabs.org/) - Equipment and funding for labs in developing countries.
+ * [EPA Environmental Education Grants](https://www.epa.gov/education/environmental-education-ee-grants) - Grants available for small community organizations.
 
 
 ## Other Resources
