@@ -168,7 +168,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Science for the People](http://science-for-the-people.org/) - A late 1960s/early 1970s radical science movement whose literature has been organized on a website by UMass Amherst.
  * [SciStarter](http://scistarter.com/finder) - A search engine for finding citizen science projects to participate in.
  * [OpenLab-Blueprint](http://openlab-blueprint.org/) - Resources for upstart DIY science labs, put together by members of Genspace.
- *[Biocanvas](http://biocanvas.net/) - A collection of biological images as art.
+ * [Biocanvas](http://biocanvas.net/) - A collection of biological images as art.
  
 ## Questions and Knowledge Gaps
 
