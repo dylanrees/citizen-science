@@ -8,7 +8,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
   - [Software](#software)
   - [Educational](#educational)
-  - [Equipment](#tools-and-equipment)
+  - [Tools and Equipment](#tools-and-equipment)
   - [Publishing and Doing Research](#publishing-and-doing-research)
   - [Citizen Science Spaces and Projects](#citizen-science-spaces-and-projects)
   - [Art and Science Spaces](#art-and-science-spaces)
