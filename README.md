@@ -142,8 +142,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Farm Hack](http://farmhack.org/tools) - A project for producing open farm tools.
  
 ## Art and Science Spaces
-
- (to be filled in soon)
+*Community-driven science labs tend to operate differently from conventional labs. Their member-led and curiosity-driven approach often produces work that breaks down conventional disciplines, such as bio-art.  This section is for listing spaces that may or may not be conventional makerspaces but capture this spirit of interdisciplinarity*.
+ * [Coalesce: Center for Biological Arts](https://www.buffalo.edu/genomeenvironmentmicrobiome/coalesce.html) - A bioart studio-lab at SUNY Buffalo
 
 ## Funding and Support
  * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
