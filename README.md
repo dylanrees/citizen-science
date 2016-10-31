@@ -62,6 +62,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [SGD](http://www.yeastgenome.org) - Stanford University's Saccharomyces Genome Database.
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment.
  * [IORodeo](http://iorodeo.com/) - Sells a cheap open-source potentiostat, a colorimeter, and some other equipment.
+ * [BioSurplus](http://www.biosurplus.com/) - A supplier of used bio lab equipment.
  
 ### Environmental Science and Geology
 
