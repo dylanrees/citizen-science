@@ -105,7 +105,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Investigative Dashboard](https://investigativedashboard.org/) - A tool for researchers, especially journalists, to share documents and findings.
  
 ## Literature and Philosophy
-
+ * [Citizen Science: Probing the Virtues and Contexts of Participatory Research](http://estsjournal.org/article/view/99/58)
  * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download)
  * [The Potentials and Limitations of Civil Society Research: Getting Undone Science Done](http://davidjhess.net/uploads/3/4/8/1/34811322/socinquiry.2009.draft.pdf)
  * [Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](https://www.researchgate.net/publication/263120833_Institutions_for_Civic_Technoscience_How_Critical_Making_is_Transforming_Environmental_Research)
