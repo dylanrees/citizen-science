@@ -108,11 +108,13 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Citizen Science: Probing the Virtues and Contexts of Participatory Research](http://estsjournal.org/article/view/99/58)
  * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download)
  * [The Potentials and Limitations of Civil Society Research: Getting Undone Science Done](http://davidjhess.net/uploads/3/4/8/1/34811322/socinquiry.2009.draft.pdf)
+ * [Citizen Engineering: Disrupting Expertise in Classroom and Community](https://peer.asee.org/citizen-engineering-disrupting-expertise-in-classroom-and-community) - A paper introducing the concept of "citizen engineering" as a companion to citizen science
  * [Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](https://www.researchgate.net/publication/263120833_Institutions_for_Civic_Technoscience_How_Critical_Making_is_Transforming_Environmental_Research)
  * [Return on Investment for Open Source Hardware Development](https://www.academia.edu/13799962/Return_on_Investment_for_Open_Source_Hardware_Development?auto=download) - by Joshua Pearce, director of MOST (see "other resources" section).
  * [Citizen Science as an Ecological Research Tool: Challenges and Benefits](http://www.jstor.org/stable/pdf/27896218.pdf)
  * [Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition ](http://online.liebertpub.com/doi/10.1089/ees.2016.0223)
  * [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
+ * [Science for the People](http://science-for-the-people.org/) - A late 1960s/early 1970s radical science movement whose literature has been organized on a website by UMass Amherst.
  
 ## Citizen Science Spaces and Projects
 
@@ -144,7 +146,8 @@ Below is a curated list of awesome software and other resources to enable those 
  
 ## Art and Science Spaces
 *Community-driven science labs tend to operate differently from conventional labs. Their member-led and curiosity-driven approach often produces work that breaks down conventional disciplines, such as bio-art.  This section is for listing spaces that may or may not be conventional makerspaces but capture this spirit of interdisciplinarity*.
- * [Coalesce: Center for Biological Arts](https://www.buffalo.edu/genomeenvironmentmicrobiome/coalesce.html) - A bioart studio-lab at SUNY Buffalo
+ * [Coalesce: Center for Biological Arts](https://www.buffalo.edu/genomeenvironmentmicrobiome/coalesce.html) - A bioart studio-lab at SUNY Buffalo.
+ * [MIT Media Lab](http://www.media.mit.edu/) - An interdisciplinary art, science and technology research center that is part of the Massachusetts Institute of Technology.
 
 ## Funding and Support
  * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
@@ -168,7 +171,6 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia.
  * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  * [The Open Source Hardware Association](http://www.oshwa.org/) - A resource for all things open hardware, including designs and legal considerations.
- * [Science for the People](http://science-for-the-people.org/) - A late 1960s/early 1970s radical science movement whose literature has been organized on a website by UMass Amherst.
  * [SciStarter](http://scistarter.com/finder) - A search engine for finding citizen science projects to participate in.
  * [Biocanvas](http://biocanvas.net/) - A collection of biological images as art.
  * [The Powercube](https://www.powercube.net/) - Some literature and workshops by community organizers for understanding power and mobilizing.
