@@ -39,6 +39,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Calibre](http://calibre-ebook.com/) - eBook management software.
  * [Stellarium](http://www.stellarium.org/) - Open-source planetarium software.
  * [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/) - a tool for turning Minecraft model files into 3D-printable .stl files
+ * [ALOHA](https://www.epa.gov/cameo/aloha-software) - A piece of software disributed by the EPA that models the threat zone for various types of chemical spill and explosion hazards.
  
 ## Educational
 
