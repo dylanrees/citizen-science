@@ -23,7 +23,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ### Lab Equipment Software
 
- * [Grafana](http://grafana.org/) - Create a dashboard (online if you wish) that visualizes you experimental data.
+ * [Grafana](http://grafana.org/) - Create a dashboard (online if you wish) that visualizes your experimental data.
  * [mMass](http://www.mmass.org/) - Open-source software for mass spectrometers.
  * [Stellarium](http://www.stellarium.org/) - Open-source planetarium software.
 
@@ -36,7 +36,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Gephi](https://gephi.org/) - Open graph visualization platform.
  * [QGIS](http://www.qgis.org/en/site/) - Open GIS software.
  * [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/) - a tool for turning Minecraft model files into 3D-printable .stl files
- * [ALOHA](https://www.epa.gov/cameo/aloha-software) - A piece of software disributed by the EPA that models the threat zone for various types of chemical spill and explosion hazards.
+ * [ALOHA](https://www.epa.gov/cameo/aloha-software) - A piece of software disributed by the EPA that models the threat zone for various types of chemical spill and explosion hazards..
 
 ### Publishing , Collaboration and Organization
 
