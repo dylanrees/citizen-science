@@ -21,25 +21,32 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ## Software
 
- * [Zotero](https://www.zotero.org/) - Open-source citation management software.
- * [mMass](http://www.mmass.org/) - Open-source software for mass spectrometers.
- * [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
+### Lab Equipment Software
+
  * [Grafana](http://grafana.org/) - Create a dashboard (online if you wish) that visualizes you experimental data.
- * [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
+ * [mMass](http://www.mmass.org/) - Open-source software for mass spectrometers.
+ * [Stellarium](http://www.stellarium.org/) - Open-source planetarium software.
+
+### Modeling and Computation
+
  * [OpenSCAD](http://www.openscad.org/) - 3D modeling software.
- * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
  * [SageMath](https://cloud.sagemath.com/) - Open-source cloud-based computation (similar to MATLAB and Mathematica).
- * [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice) - Free and open source productivity software (write documents, spreadsheets, presentations, and more).
  * [GNU Octave](https://www.gnu.org/software/octave/) - Free software numerical computation program, similar to MATLAB.
- * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
- * [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
  * [Dia](http://dia-installer.de/) - Open-source software for making diagrams.
  * [Gephi](https://gephi.org/) - Open graph visualization platform.
  * [QGIS](http://www.qgis.org/en/site/) - Open GIS software.
- * [Calibre](http://calibre-ebook.com/) - eBook management software.
- * [Stellarium](http://www.stellarium.org/) - Open-source planetarium software.
  * [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/) - a tool for turning Minecraft model files into 3D-printable .stl files
  * [ALOHA](https://www.epa.gov/cameo/aloha-software) - A piece of software disributed by the EPA that models the threat zone for various types of chemical spill and explosion hazards.
+
+### Publishing , Collaboration and Organization
+
+ * [Zotero](https://www.zotero.org/) - Open-source citation management software.
+ * [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
+ * [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
+ * [ISLE](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+ * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
+ * [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
+ * [Calibre](http://calibre-ebook.com/) - eBook management software.
  
 ## Educational
 
