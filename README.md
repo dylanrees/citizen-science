@@ -71,6 +71,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment.
  * [IORodeo](http://iorodeo.com/) - Sells a cheap open-source potentiostat, a colorimeter, and some other equipment.
  * [BioSurplus](http://www.biosurplus.com/) - A supplier of used bio lab equipment.
+ * [Paperfuge](http://www.biorxiv.org/content/early/2016/08/30/072207.full.pdf+html) - An ultra-low cost, hand-powered centrifuge inspired by the mechanics of a whirligig toy.
  
 ### Environmental Science and Geology
 
