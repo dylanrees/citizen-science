@@ -93,7 +93,6 @@ Below is a curated list of awesome software and other resources to enable those 
   * [SparkFun](https://www.sparkfun.com/) - A company selling all sorts of electronics for DIY projects, including sensors.
   * [Red Pitaya](http://redpitaya.com/) - Open-source tool with multiple signal processing functions, such as an oscilloscope, spectrum analyzer, signal generator, and more.
   * [Podo](http://podolabs.com/#buy) - A stickable, hi-resolution Bluetooth camera.
-  * [IDA Systems](http://idasystems.net/) - An Indian manufacturer of open hardware devices.
 
 ### Other
 
@@ -149,8 +148,8 @@ Below is a curated list of awesome software and other resources to enable those 
 
  * [The Citizen Science Lab](http://www.thecitizensciencelab.org/) - A community science lab based in Pittsburgh, PA.
  * [BioBus](http://www.biobus.org/) - A mobile science education lab.
- * [Hillsboro Library of Things](http://hillsboro-oregon.gov/index.aspx?page=1529) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
- * [Fab Foundation](http://fabfoundation.org/about-us/) - an organization that facilitaties a network of digital fabrication "Fab Labs"
+ * [Hillsboro Library of Things](http://www.hillsboro-oregon.gov/departments/library/explore-the-collections/library-of-things) - A library for physical objects based in Hillsboro, OR.  Includes some science and tech supplies.
+ * [Fab Foundation](http://fabfoundation.org/) - an organization that facilitaties a network of digital fabrication "Fab Labs"
  * [Farm Hack](http://farmhack.org/tools) - A project for producing open farm tools.
  
 ## Art and Science Spaces
