@@ -160,16 +160,20 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Interspecifics](http://www.interspecifics.cc/) - A Mexico City-based collective working on projects at the intersection of art and science, especially related to biologically-generated sound.
 
 ## Funding and Support
+
+### Financial Resources
  * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
  * [The Awesome Foundation](http://www.awesomefoundation.org/) - A nonprofit that funds awesome projects with microgrants $1000 at a time.
  * [Endeavorist](https://www.endeavorist.org/#!/) - A "curiosity network" for science and technology that combines a social network with crowdfunding.
  * [Herb Society of America](http://www.herbsociety.org/support/grants-scholarships/grant-details.html) - Offers some grants that are compatible with small, non-institutional research projects.
  * [Seeding Labs](https://seedinglabs.org/) - Equipment and funding for labs in developing countries.
  * [EPA Environmental Education Grants](https://www.epa.gov/education/environmental-education-ee-grants) - Grants available for small community organizations.
+
+### Other Types of Support
+ * [DIYbio.org](https://diybio.org/) - An online community for DIY biologists.
  * [CollabFinder](http://collabfinder.com/) - A place to find collaborators for your project.
  * [OpenLab-Blueprint](http://openlab-blueprint.org/) - Informational resources for upstart DIY science labs, put together by members of Genspace.
-
-
+ 
 ## Other Resources
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network.
  * [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems. 
