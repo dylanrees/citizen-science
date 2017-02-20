@@ -157,6 +157,7 @@ Below is a curated list of awesome software and other resources to enable those 
 *Community-driven science labs tend to operate differently from conventional labs. Their member-led and curiosity-driven approach often produces work that breaks down conventional disciplines, such as bio-art.  This section is for listing spaces that may or may not be conventional makerspaces but capture this spirit of interdisciplinarity*.
  * [Coalesce: Center for Biological Arts](https://www.buffalo.edu/genomeenvironmentmicrobiome/coalesce.html) - A bioart studio-lab at SUNY Buffalo.
  * [MIT Media Lab](http://www.media.mit.edu/) - An interdisciplinary art, science and technology research center that is part of the Massachusetts Institute of Technology.
+ * [Interspecifics](http://www.interspecifics.cc/) - A Mexico City-based collective working on projects at the intersection of art and science, especially related to biologically-generated sound.
 
 ## Funding and Support
  * [Experiment.com](https://experiment.com/) - A science crowdfunding platform.
