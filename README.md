@@ -14,6 +14,7 @@ Below is a curated list of awesome software and other resources to enable those 
   - [Art and Science Spaces](#art-and-science-spaces)
   - [Literature and Philosophy](#literature-and-philosophy)
   - [Funding and Support](#funding-and-support)
+  - [Conferences and Events](#conferences-and-events)
   - [Other Resources](#other-resources)
   - [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
   - [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
@@ -173,19 +174,21 @@ Below is a curated list of awesome software and other resources to enable those 
  * [DIYbio.org](https://diybio.org/) - An online community for DIY biologists.
  * [CollabFinder](http://collabfinder.com/) - A place to find collaborators for your project.
  * [OpenLab-Blueprint](http://openlab-blueprint.org/) - Informational resources for upstart DIY science labs, put together by members of Genspace.
- 
-## Other Resources
+ * [SciStarter](http://scistarter.com/finder) - A search engine for finding citizen science projects to participate in.
+ * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network.
+ 
+## Conferences and Events
  * [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems. 
  * [iGEM](http://igem.org/Main_Page) - Student synthetic biology competition with connections to many DIY bio labs.
- * [Biodesign Challenge](http://biodesignchallenge.org/) - Student design competition that concentrates on envisioning the future application of biotechnology.
  * [Biofabricate](http://www.biofabricate.co/) - A design-focused annual conference that focuses on biotechnology-affiliated design, materials, and techniques.
+ * [Biodesign Challenge](http://biodesignchallenge.org/) - Student design competition that concentrates on envisioning the future application of biotechnology.
+ 
+## Other Resources
  * [MOST](http://www.appropedia.org/Category:MOST) - The Pearce Research Group at Michigan Tech in Open Sustainability Technology.
  * [OSGeo](http://www.osgeo.org/) - The Open Source Geospatial Foundation, which offers a lot of open tools for working with GIS data.
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) - A large list maintained on Appropedia.
- * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  * [The Open Source Hardware Association](http://www.oshwa.org/) - A resource for all things open hardware, including designs and legal considerations.
- * [SciStarter](http://scistarter.com/finder) - A search engine for finding citizen science projects to participate in.
  * [Biocanvas](http://biocanvas.net/) - A collection of biological images as art.
  * [The Powercube](https://www.powercube.net/) - Some literature and workshops by community organizers for understanding power and mobilizing.
  
