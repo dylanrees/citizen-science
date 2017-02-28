@@ -160,6 +160,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [MIT Media Lab](http://www.media.mit.edu/) - An interdisciplinary art, science and technology research center that is part of the Massachusetts Institute of Technology.
  * [Interspecifics](http://www.interspecifics.cc/) - A Mexico City-based collective working on projects at the intersection of art and science, especially related to biologically-generated sound.
  * [Center for Science and the Imagination](http://csi.asu.edu/) - A collaboration between artists and scientists at Arizona State University.
+ * [STEM to STEAM](http://stemtosteam.org/) - An initiative out of Rhode Island School of Design to bring more art and design into STEM education.
 
 ## Funding and Support
 
