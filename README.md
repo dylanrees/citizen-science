@@ -115,6 +115,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Investigative Dashboard](https://investigativedashboard.org/) - A tool for researchers, especially journalists, to share documents and findings.
  
 ## Literature and Philosophy
+
  * [Citizen Science: Probing the Virtues and Contexts of Participatory Research](http://estsjournal.org/article/view/99/58)
  * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download)
  * [The Potentials and Limitations of Civil Society Research: Getting Undone Science Done](http://davidjhess.net/uploads/3/4/8/1/34811322/socinquiry.2009.draft.pdf)
@@ -125,6 +126,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition ](http://online.liebertpub.com/doi/10.1089/ees.2016.0223)
  * [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
  * [Science for the People](http://science-for-the-people.org/) - A late 1960s/early 1970s radical science movement whose literature has been organized on a website by UMass Amherst.
+ * [Lead Concentrations in Inner-City Soils As a Factor in the Child Lead Problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651267/pdf/amjph00647-0022.pdf) - A 1983 pharmacology paper detailing a low-cost, low-tech method of doing soil heavy metal testing.
  
 ## Citizen Science Spaces and Projects
 
