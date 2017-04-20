@@ -48,6 +48,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
  * [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
  * [Calibre](http://calibre-ebook.com/) - eBook management software.
+ * [LibraryThing](https://www.librarything.com/) - an online platform for organizing your library.
  
 ## Educational
 
