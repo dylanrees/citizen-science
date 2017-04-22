@@ -129,6 +129,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Science for the People](http://science-for-the-people.org/) - A late 1960s/early 1970s radical science movement whose literature has been organized on a website by UMass Amherst.
  * [Lead Concentrations in Inner-City Soils As a Factor in the Child Lead Problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651267/pdf/amjph00647-0022.pdf) - A 1983 pharmacology paper detailing a low-cost, low-tech method of doing soil heavy metal testing.
  * [How to Run a Feminist Science Lab Meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/) - A guide by the Civic Laboratory in St. John's, Newfoundland
+ * [From the March for Science to an Abolitionist Science](https://www.fromthesquare.org/march-science-abolitionist-science/#.WPpQv2nyuUl) - An article that offers several historical and current critiques of science that propose alternative ways of doing scientific work.
  
 ## Citizen Science Spaces and Projects
 
