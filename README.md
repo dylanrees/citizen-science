@@ -74,6 +74,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment.
  * [IORodeo](http://iorodeo.com/) - Sells a cheap open-source potentiostat, a colorimeter, and some other equipment.
  * [BioSurplus](http://www.biosurplus.com/) - A supplier of used bio lab equipment.
+ * [DremelFuge](http://www.thingiverse.com/thing:1483) - A biology centrifuge that takes the form of a dremel attachment.
  * [Paperfuge](http://www.biorxiv.org/content/early/2016/08/30/072207.full.pdf+html) - An ultra-low cost, hand-powered centrifuge inspired by the mechanics of a whirligig toy.
  * [Ministat](http://www.hivebio.org/projects/ministat-2/) - A DIY chemostat.
  * [MinION](https://nanoporetech.com/products/minion) - An affordable, portable DNA/RNA sequencer.
