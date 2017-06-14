@@ -78,6 +78,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Paperfuge](http://www.biorxiv.org/content/early/2016/08/30/072207.full.pdf+html) - An ultra-low cost, hand-powered centrifuge inspired by the mechanics of a whirligig toy.
  * [Ministat](http://www.hivebio.org/projects/ministat-2/) - A DIY chemostat.
  * [MinION](https://nanoporetech.com/products/minion) - An affordable, portable DNA/RNA sequencer.
+ * [SpikerBox](https://backyardbrains.com/products/spikerbox) - A bioamplifier for DIY neuroscience.
  
 ### Environmental Science and Geology
 
