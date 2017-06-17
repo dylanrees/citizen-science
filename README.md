@@ -189,6 +189,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [SciStarter](http://scistarter.com/finder) - A search engine for finding citizen science projects to participate in.
  * [Federal Crowdsourcing and Citizen Science Toolkit](https://crowdsourcing-toolkit.sites.usa.gov/) - Maintained by the US government.
  * [Public Lab](https://publiclab.org/) - A DIY environmental science network.
+ * [Welcome to How To Grow (almost) Anything in GaudiLabs - Switzerland](http://bio.academany.org/2015/labs/luzern/final_project.html) - A guide to setting up a basic microbiology lab.
  
 ## Conferences and Events
  * [Innovative Citizen](http://www.innovative-citizen.de/) - An annual citizen science festival in the Ruhr area, Germany, with an emphasis on organic fabrication, bio-hacking, mobile agriculture, and sustainability in urban ecosystems. 
