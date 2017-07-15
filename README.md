@@ -171,6 +171,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Interspecifics](http://www.interspecifics.cc/) - A Mexico City-based collective working on projects at the intersection of art and science, especially related to biologically-generated sound.
  * [Center for Science and the Imagination](http://csi.asu.edu/) - A collaboration between artists and scientists at Arizona State University.
  * [STEM to STEAM](http://stemtosteam.org/) - An initiative out of Rhode Island School of Design to bring more art and design into STEM education.
+ * [The Waag Society](https://waag.org/en/) - An institute for collaborative art, science and technology based in the Netherlands.
 
 ## Funding and Support
 
