@@ -12,7 +12,7 @@ Below is a curated list of awesome software and other resources to enable those 
   - [Publishing and Doing Research](#publishing-and-doing-research)
   - [Citizen Science Spaces and Projects](#citizen-science-spaces-and-projects)
   - [Art and Science Spaces](#art-and-science-spaces)
-  - [Literature and Philosophy](#literature-and-philosophy)
+  - [Literature](#literature)
   - [Funding and Support](#funding-and-support)
   - [Conferences and Events](#conferences-and-events)
   - [Other Resources](#other-resources)
@@ -121,23 +121,26 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Directory of Open Access Journals](https://doaj.org/) - Over 9000 journals listed.
  * [Investigative Dashboard](https://investigativedashboard.org/) - A tool for researchers, especially journalists, to share documents and findings.
  
-## Literature and Philosophy
+## Literature
 
+### Citizen Science Theory
  * [Citizen Science: Probing the Virtues and Contexts of Participatory Research](http://estsjournal.org/article/view/99/58)
  * [Buckets of Resistance: Standards and the Effectiveness of Citizen Science](https://www.academia.edu/7622292/Buckets_of_Resistance_Standards_and_the_Effectiveness_of_Citizen_Science?auto=download)
  * [The Potentials and Limitations of Civil Society Research: Getting Undone Science Done](http://davidjhess.net/uploads/3/4/8/1/34811322/socinquiry.2009.draft.pdf)
  * [Citizen Engineering: Disrupting Expertise in Classroom and Community](https://peer.asee.org/citizen-engineering-disrupting-expertise-in-classroom-and-community) - A paper introducing the concept of "citizen engineering" as a companion to citizen science
  * [Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](https://www.researchgate.net/publication/263120833_Institutions_for_Civic_Technoscience_How_Critical_Making_is_Transforming_Environmental_Research)
- * [Return on Investment for Open Source Hardware Development](https://www.academia.edu/13799962/Return_on_Investment_for_Open_Source_Hardware_Development?auto=download) - by Joshua Pearce, director of MOST (see "other resources" section).
  * [Citizen Science as an Ecological Research Tool: Challenges and Benefits](http://www.jstor.org/stable/pdf/27896218.pdf)
  * [Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition ](http://online.liebertpub.com/doi/10.1089/ees.2016.0223)
  * [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/~bi/labinger/nontechpdfs/7sciencewars.pdf) - Caltech chemistry professor Jay A. Labinger's paper about the need for scientists to engage with critical science studies scholars.
  * [Science for the People](http://science-for-the-people.org/) - A late 1960s/early 1970s radical science movement whose literature has been organized on a website by UMass Amherst.
- * [Lead Concentrations in Inner-City Soils As a Factor in the Child Lead Problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651267/pdf/amjph00647-0022.pdf) - A 1983 pharmacology paper detailing a low-cost, low-tech method of doing soil heavy metal testing.
- * [How to Run a Feminist Science Lab Meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/) - A guide by the Civic Laboratory in St. John's, Newfoundland
  * [From the March for Science to an Abolitionist Science](https://www.fromthesquare.org/march-science-abolitionist-science/#.WPpQv2nyuUl) - An article that offers several historical and current critiques of science that propose alternative ways of doing scientific work.
  * [Whole Earth Catalog](http://www.wholeearth.com/index.php) - A site that contains the remnants of a famous late 1960s and early 1970s maker/ecology magazine.
+### Citizen Science Practice
+ * [Lead Concentrations in Inner-City Soils As a Factor in the Child Lead Problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651267/pdf/amjph00647-0022.pdf) - A 1983 pharmacology paper detailing a low-cost, low-tech method of doing soil heavy metal testing.
+ * [Return on Investment for Open Source Hardware Development](https://www.academia.edu/13799962/Return_on_Investment_for_Open_Source_Hardware_Development?auto=download) - by Joshua Pearce, director of MOST (see "other resources" section).
+ * [How to Run a Feminist Science Lab Meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/) - A guide by the Civic Laboratory in St. John's, Newfoundland
  * [Spectrophotometric Determination of Lead](http://www.pharmtech.com/spectrophotometric-determination-lead) - Another simple DIY lead testing procedure.
+ * [First-Ever Video May Show Pig-Like Animals Mourning Their Dead](https://news.nationalgeographic.com/2017/12/animals-grieving-peccaries-death-mourning/) - An example of an important scientific discovery being made by someone who was not an institutional academic (an 8-year-old boy).  The boy received lead author credit in a scientific paper.
  
 ## Citizen Science Spaces and Projects
 
