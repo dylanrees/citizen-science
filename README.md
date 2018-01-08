@@ -137,7 +137,6 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Whole Earth Catalog](http://www.wholeearth.com/index.php) - A site that contains the remnants of a famous late 1960s and early 1970s maker/ecology magazine.
 ### Citizen Science Practice
  * [Lead Concentrations in Inner-City Soils As a Factor in the Child Lead Problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651267/pdf/amjph00647-0022.pdf) - A 1983 pharmacology paper detailing a low-cost, low-tech method of doing soil heavy metal testing.
- * [Return on Investment for Open Source Hardware Development](https://www.academia.edu/13799962/Return_on_Investment_for_Open_Source_Hardware_Development?auto=download) - by Joshua Pearce, director of MOST (see "other resources" section).
  * [How to Run a Feminist Science Lab Meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/) - A guide by the Civic Laboratory in St. John's, Newfoundland
  * [Spectrophotometric Determination of Lead](http://www.pharmtech.com/spectrophotometric-determination-lead) - Another simple DIY lead testing procedure.
  * [First-Ever Video May Show Pig-Like Animals Mourning Their Dead](https://news.nationalgeographic.com/2017/12/animals-grieving-peccaries-death-mourning/) - An example of an important scientific discovery being made by someone who was not an institutional academic (an 8-year-old boy).  The boy received lead author credit in a scientific paper.
