@@ -37,7 +37,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Gephi](https://gephi.org/) - Open graph visualization platform.
  * [QGIS](http://www.qgis.org/en/site/) - Open GIS software.
  * [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/) - a tool for turning Minecraft model files into 3D-printable .stl files
- * [ALOHA](https://www.epa.gov/cameo/aloha-software) - A piece of software disributed by the EPA that models the threat zone for various types of chemical spill and explosion hazards..
+ * [ALOHA](https://www.epa.gov/cameo/aloha-software) - A piece of software disributed by the EPA that models the threat zone for various types of chemical spill and explosion hazards.
+ * [vegan](http://vegan.r-forge.r-project.org/) - R package for statistical work in community ecology.
 
 ### Publishing , Collaboration and Organization
 
