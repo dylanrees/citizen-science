@@ -211,6 +211,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Open Source Hardware Association](http://www.oshwa.org/) - A resource for all things open hardware, including designs and legal considerations.
  * [Biocanvas](http://biocanvas.net/) - A collection of biological images as art.
  * [The Powercube](https://www.powercube.net/) - Some literature and workshops by community organizers for understanding power and mobilizing.
+ * [Detroit Future City: A Field Guide to Working with Lots](https://dfc-lots.com/resources/) - Guides for urban agriculture from Detroit.
  
 ## Questions and Knowledge Gaps
 
