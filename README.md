@@ -39,6 +39,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/) - a tool for turning Minecraft model files into 3D-printable .stl files
  * [ALOHA](https://www.epa.gov/cameo/aloha-software) - A piece of software disributed by the EPA that models the threat zone for various types of chemical spill and explosion hazards.
  * [vegan](http://vegan.r-forge.r-project.org/) - R package for statistical work in community ecology.
+ * [BOINC](https://boinc.berkeley.edu/) - Open-source cross-platform volunteer computing network connecting computers of volunteers/citizen scientists to scientific research projects. Used by CERN and universities around the world.
 
 ### Publishing , Collaboration and Organization
 
