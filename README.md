@@ -128,6 +128,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [arXiv](http://arxiv.org/) - A Cornell-supported site for sharing and discussing early drafts of scientific papers (mostly physics and math).
  * [Directory of Open Access Journals](https://doaj.org/) - Over 9000 journals listed.
  * [Investigative Dashboard](https://investigativedashboard.org/) - A tool for researchers, especially journalists, to share documents and findings.
+ * [Taskade](https://www.taskade.com) - Collaborative outliner, notes, and task manager.
  
 ## Literature
 
