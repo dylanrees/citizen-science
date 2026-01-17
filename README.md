@@ -95,6 +95,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Raspberry Shake](https://www.kickstarter.com/projects/angelrodriguez/raspberry-shake-your-personal-seismograph) - A seismograph compatible with the Raspberry Pi.
  * [Smoky Mountain Scientific](http://www.smokymtsci.com/) - Modular, Low cost, open-source instrumentation for environmental monitoring.
  * [AWEsome](https://www.lhc-ilc.physik.uni-bonn.de/research-groups/experimental-physics/prof.-k.-desch/research/airborne-wind-energy) - An affordable airborne wind turbine prototype.
+ * [IMGtoKMZ] (https://github.com/s5rt/IMGtoKMZ) - A simple tool to convert a batch of geotagged images into a KMZ file, with one placemark per photograph.
 
 ### 3D Printing and Fabrication
 
