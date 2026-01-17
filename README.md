@@ -98,7 +98,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
 ### GIS and Mapping
 
- * [IMGtoKMZ] (https://github.com/s5rt/IMGtoKMZ) - A simple tool to convert a batch of geotagged images into a KMZ file, with one placemark per photograph.
+ * [IMGtoKMZ](https://github.com/s5rt/IMGtoKMZ) - A simple tool to convert a batch of geotagged images into a KMZ file, with one placemark per photograph.
 
 ### 3D Printing and Fabrication
 
