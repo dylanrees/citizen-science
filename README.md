@@ -174,6 +174,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [The Radix Center](https://radixcenter.org/) - Community-based urban sustainability / agriculture education center in Albany, NY.
  * [The Bucket Brigade](http://www.labucketbrigade.org/) - A Norco, LA - based citizen science group fighting for environmental justice.
  * [Safecast](http://blog.safecast.org/) - An online citizen science project collecting and visualizing radioactivity data across the globe.
+ * [iNaturalist](https://www.inaturalist.org/) - A joint initiative of the California Academy of Sciences and the National Geographic Society, enabling anyone to record observations of biodiversity; data contributed to science and the GBIF.
  * [Rainforest Connection](https://rfcx.org/) - Project sing old smartphones as sensors to combat illegal logging.
 
 ### Other
